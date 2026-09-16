@@ -1,0 +1,198 @@
+{
+  "status": "PASS",
+  "reference_release": "2026_03",
+  "protein_sequence_records": 169634,
+  "total_residues": 82674231,
+  "matches": {
+    "VTAFVNQHL": {
+      "exact": [],
+      "IL_equivalent": []
+    },
+    "TAFVNQHL": {
+      "exact": [],
+      "IL_equivalent": []
+    },
+    "VGAFVNQHL": {
+      "exact": [],
+      "IL_equivalent": []
+    },
+    "GAFVNQHL": {
+      "exact": [],
+      "IL_equivalent": []
+    },
+    "VCAFVNQHL": {
+      "exact": [],
+      "IL_equivalent": []
+    },
+    "CAFVNQHL": {
+      "exact": [],
+      "IL_equivalent": []
+    },
+    "VDAFVNQHL": {
+      "exact": [],
+      "IL_equivalent": []
+    },
+    "DAFVNQHL": {
+      "exact": [],
+      "IL_equivalent": []
+    },
+    "AAAFVNQHL": {
+      "exact": [
+        {
+          "protein": "tr|F6UNL6|F6UNL6_HUMAN Insulin OS=Homo sapiens OX=9606 GN=INS PE=1 SV=1",
+          "position_1based": 22,
+          "actual_sequence": "AAAFVNQHL"
+        },
+        {
+          "protein": "tr|C9JNR5|C9JNR5_HUMAN Insulin (Fragment) OS=Homo sapiens OX=9606 GN=INS PE=3 SV=1",
+          "position_1based": 22,
+          "actual_sequence": "AAAFVNQHL"
+        },
+        {
+          "protein": "sp|P01308|INS_HUMAN Insulin OS=Homo sapiens OX=9606 GN=INS PE=1 SV=1",
+          "position_1based": 22,
+          "actual_sequence": "AAAFVNQHL"
+        },
+        {
+          "protein": "sp|F8WCM5|INSR2_HUMAN Insulin, isoform 2 OS=Homo sapiens OX=9606 GN=INS-IGF2 PE=1 SV=1",
+          "position_1based": 22,
+          "actual_sequence": "AAAFVNQHL"
+        }
+      ],
+      "IL_equivalent": [
+        {
+          "protein": "tr|F6UNL6|F6UNL6_HUMAN Insulin OS=Homo sapiens OX=9606 GN=INS PE=1 SV=1",
+          "position_1based": 22,
+          "actual_sequence": "AAAFVNQHL"
+        },
+        {
+          "protein": "tr|C9JNR5|C9JNR5_HUMAN Insulin (Fragment) OS=Homo sapiens OX=9606 GN=INS PE=3 SV=1",
+          "position_1based": 22,
+          "actual_sequence": "AAAFVNQHL"
+        },
+        {
+          "protein": "sp|P01308|INS_HUMAN Insulin OS=Homo sapiens OX=9606 GN=INS PE=1 SV=1",
+          "position_1based": 22,
+          "actual_sequence": "AAAFVNQHL"
+        },
+        {
+          "protein": "sp|F8WCM5|INSR2_HUMAN Insulin, isoform 2 OS=Homo sapiens OX=9606 GN=INS-IGF2 PE=1 SV=1",
+          "position_1based": 22,
+          "actual_sequence": "AAAFVNQHL"
+        }
+      ]
+    },
+    "RSAAVLALL": {
+      "exact": [
+        {
+          "protein": "tr|G3V2Q7|G3V2Q7_HUMAN Chromogranin A OS=Homo sapiens OX=9606 GN=CHGA PE=4 SV=1",
+          "position_1based": 2,
+          "actual_sequence": "RSAAVLALL"
+        },
+        {
+          "protein": "tr|A0ACI8SE82|A0ACI8SE82_HUMAN Chromogranin-A OS=Homo sapiens OX=9606 GN=CHGA PE=1 SV=1",
+          "position_1based": 2,
+          "actual_sequence": "RSAAVLALL"
+        },
+        {
+          "protein": "tr|A0ACI8QXV6|A0ACI8QXV6_HUMAN Chromogranin-A OS=Homo sapiens OX=9606 GN=CHGA PE=1 SV=1",
+          "position_1based": 2,
+          "actual_sequence": "RSAAVLALL"
+        },
+        {
+          "protein": "tr|A0ACI8VG26|A0ACI8VG26_HUMAN Chromogranin-A OS=Homo sapiens OX=9606 GN=CHGA PE=1 SV=1",
+          "position_1based": 2,
+          "actual_sequence": "RSAAVLALL"
+        },
+        {
+          "protein": "tr|A0ACI8VJI0|A0ACI8VJI0_HUMAN Chromogranin-A OS=Homo sapiens OX=9606 GN=CHGA PE=1 SV=1",
+          "position_1based": 2,
+          "actual_sequence": "RSAAVLALL"
+        },
+        {
+          "protein": "tr|A0ACI8SAZ5|A0ACI8SAZ5_HUMAN Chromogranin-A OS=Homo sapiens OX=9606 GN=CHGA PE=1 SV=1",
+          "position_1based": 2,
+          "actual_sequence": "RSAAVLALL"
+        },
+        {
+          "protein": "sp|P10645|CMGA_HUMAN Chromogranin-A OS=Homo sapiens OX=9606 GN=CHGA PE=1 SV=7",
+          "position_1based": 2,
+          "actual_sequence": "RSAAVLALL"
+        },
+        {
+          "protein": "tr|A0ACI8QX18|A0ACI8QX18_HUMAN Chromogranin-A OS=Homo sapiens OX=9606 GN=CHGA PE=1 SV=1",
+          "position_1based": 2,
+          "actual_sequence": "RSAAVLALL"
+        },
+        {
+          "protein": "tr|G5E968|G5E968_HUMAN Chromogranin-A OS=Homo sapiens OX=9606 GN=CHGA PE=1 SV=1",
+          "position_1based": 2,
+          "actual_sequence": "RSAAVLALL"
+        }
+      ],
+      "IL_equivalent": [
+        {
+          "protein": "tr|G3V2Q7|G3V2Q7_HUMAN Chromogranin A OS=Homo sapiens OX=9606 GN=CHGA PE=4 SV=1",
+          "position_1based": 2,
+          "actual_sequence": "RSAAVLALL"
+        },
+        {
+          "protein": "tr|A0ACI8SE82|A0ACI8SE82_HUMAN Chromogranin-A OS=Homo sapiens OX=9606 GN=CHGA PE=1 SV=1",
+          "position_1based": 2,
+          "actual_sequence": "RSAAVLALL"
+        },
+        {
+          "protein": "tr|A0ACI8QXV6|A0ACI8QXV6_HUMAN Chromogranin-A OS=Homo sapiens OX=9606 GN=CHGA PE=1 SV=1",
+          "position_1based": 2,
+          "actual_sequence": "RSAAVLALL"
+        },
+        {
+          "protein": "tr|A0ACI8VG26|A0ACI8VG26_HUMAN Chromogranin-A OS=Homo sapiens OX=9606 GN=CHGA PE=1 SV=1",
+          "position_1based": 2,
+          "actual_sequence": "RSAAVLALL"
+        },
+        {
+          "protein": "tr|A0ACI8VJI0|A0ACI8VJI0_HUMAN Chromogranin-A OS=Homo sapiens OX=9606 GN=CHGA PE=1 SV=1",
+          "position_1based": 2,
+          "actual_sequence": "RSAAVLALL"
+        },
+        {
+          "protein": "tr|A0ACI8SAZ5|A0ACI8SAZ5_HUMAN Chromogranin-A OS=Homo sapiens OX=9606 GN=CHGA PE=1 SV=1",
+          "position_1based": 2,
+          "actual_sequence": "RSAAVLALL"
+        },
+        {
+          "protein": "sp|P10645|CMGA_HUMAN Chromogranin-A OS=Homo sapiens OX=9606 GN=CHGA PE=1 SV=7",
+          "position_1based": 2,
+          "actual_sequence": "RSAAVLALL"
+        },
+        {
+          "protein": "tr|A0ACI8QX18|A0ACI8QX18_HUMAN Chromogranin-A OS=Homo sapiens OX=9606 GN=CHGA PE=1 SV=1",
+          "position_1based": 2,
+          "actual_sequence": "RSAAVLALL"
+        },
+        {
+          "protein": "tr|G5E968|G5E968_HUMAN Chromogranin-A OS=Homo sapiens OX=9606 GN=CHGA PE=1 SV=1",
+          "position_1based": 2,
+          "actual_sequence": "RSAAVLALL"
+        }
+      ]
+    }
+  },
+  "source_files": [
+    {
+      "file": "UP000005640_9606.fasta.gz",
+      "published_md5": "4111bc721b6ba9dcf427360efaf05327",
+      "verified": true,
+      "sha256": "3c2e371b769543fac552a5ff0bd9f8a4d8eb136aab53b08e623d1ba417632fbd",
+      "sequence_count": 147503
+    },
+    {
+      "file": "UP000005640_9606_additional.fasta.gz",
+      "published_md5": "79ca8863316ecb928d061b2a204786e9",
+      "verified": true,
+      "sha256": "55a80407a7c76be203c87f72b374daaec045b8ce7b75a74954bbc8d32db0232f",
+      "sequence_count": 22131
+    }
+  ]
+}

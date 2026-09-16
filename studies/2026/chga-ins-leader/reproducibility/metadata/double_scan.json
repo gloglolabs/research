@@ -1,0 +1,148 @@
+{
+  "scope": "Explicit double candidates, including overlap of the two edited positions.",
+  "selection": "L9C/G are the only leader3-9 single substitutions without leader-only NetMHCpan EL<0.5 hits; combine with priorT17C/G/D/P frontier, not a validated functional design.",
+  "alleles": [
+    "HLA-A*02:01",
+    "HLA-A*24:02",
+    "HLA-A*03:01",
+    "HLA-B*40:01",
+    "HLA-B*49:01",
+    "HLA-C*03:04",
+    "HLA-C*07:01"
+  ],
+  "lengths": [8, 9, 10, 11],
+  "constructs": [
+    {
+      "seq_num": 1,
+      "id": "CHGA_baseline",
+      "substitution": "baseline",
+      "positions": [],
+      "leader_sequence": "MRSAAVLALLLCAGQVTA",
+      "full_sequence": "MRSAAVLALLLCAGQVTAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAEDLQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN",
+      "sequence": "MRSAAVLALLLCAGQVTAFVNQHLCGSHL",
+      "junction_after_1based": 18
+    },
+    {
+      "seq_num": 2,
+      "id": "CHGA_L9C",
+      "substitution": "L9C",
+      "positions": [9],
+      "leader_sequence": "MRSAAVLACLLCAGQVTA",
+      "full_sequence": "MRSAAVLACLLCAGQVTAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAEDLQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN",
+      "sequence": "MRSAAVLACLLCAGQVTAFVNQHLCGSHL",
+      "junction_after_1based": 18
+    },
+    {
+      "seq_num": 3,
+      "id": "CHGA_L9G",
+      "substitution": "L9G",
+      "positions": [9],
+      "leader_sequence": "MRSAAVLAGLLCAGQVTA",
+      "full_sequence": "MRSAAVLAGLLCAGQVTAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAEDLQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN",
+      "sequence": "MRSAAVLAGLLCAGQVTAFVNQHLCGSHL",
+      "junction_after_1based": 18
+    },
+    {
+      "seq_num": 4,
+      "id": "CHGA_T17C",
+      "substitution": "T17C",
+      "positions": [17],
+      "leader_sequence": "MRSAAVLALLLCAGQVCA",
+      "full_sequence": "MRSAAVLALLLCAGQVCAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAEDLQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN",
+      "sequence": "MRSAAVLALLLCAGQVCAFVNQHLCGSHL",
+      "junction_after_1based": 18
+    },
+    {
+      "seq_num": 5,
+      "id": "CHGA_T17G",
+      "substitution": "T17G",
+      "positions": [17],
+      "leader_sequence": "MRSAAVLALLLCAGQVGA",
+      "full_sequence": "MRSAAVLALLLCAGQVGAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAEDLQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN",
+      "sequence": "MRSAAVLALLLCAGQVGAFVNQHLCGSHL",
+      "junction_after_1based": 18
+    },
+    {
+      "seq_num": 6,
+      "id": "CHGA_L9C_T17C",
+      "substitution": "L9C_T17C",
+      "positions": [9, 17],
+      "leader_sequence": "MRSAAVLACLLCAGQVCA",
+      "full_sequence": "MRSAAVLACLLCAGQVCAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAEDLQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN",
+      "sequence": "MRSAAVLACLLCAGQVCAFVNQHLCGSHL",
+      "junction_after_1based": 18
+    },
+    {
+      "seq_num": 7,
+      "id": "CHGA_L9C_T17G",
+      "substitution": "L9C_T17G",
+      "positions": [9, 17],
+      "leader_sequence": "MRSAAVLACLLCAGQVGA",
+      "full_sequence": "MRSAAVLACLLCAGQVGAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAEDLQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN",
+      "sequence": "MRSAAVLACLLCAGQVGAFVNQHLCGSHL",
+      "junction_after_1based": 18
+    },
+    {
+      "seq_num": 8,
+      "id": "CHGA_L9C_T17D",
+      "substitution": "L9C_T17D",
+      "positions": [9, 17],
+      "leader_sequence": "MRSAAVLACLLCAGQVDA",
+      "full_sequence": "MRSAAVLACLLCAGQVDAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAEDLQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN",
+      "sequence": "MRSAAVLACLLCAGQVDAFVNQHLCGSHL",
+      "junction_after_1based": 18
+    },
+    {
+      "seq_num": 9,
+      "id": "CHGA_L9C_T17P",
+      "substitution": "L9C_T17P",
+      "positions": [9, 17],
+      "leader_sequence": "MRSAAVLACLLCAGQVPA",
+      "full_sequence": "MRSAAVLACLLCAGQVPAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAEDLQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN",
+      "sequence": "MRSAAVLACLLCAGQVPAFVNQHLCGSHL",
+      "junction_after_1based": 18
+    },
+    {
+      "seq_num": 10,
+      "id": "CHGA_L9G_T17C",
+      "substitution": "L9G_T17C",
+      "positions": [9, 17],
+      "leader_sequence": "MRSAAVLAGLLCAGQVCA",
+      "full_sequence": "MRSAAVLAGLLCAGQVCAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAEDLQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN",
+      "sequence": "MRSAAVLAGLLCAGQVCAFVNQHLCGSHL",
+      "junction_after_1based": 18
+    },
+    {
+      "seq_num": 11,
+      "id": "CHGA_L9G_T17G",
+      "substitution": "L9G_T17G",
+      "positions": [9, 17],
+      "leader_sequence": "MRSAAVLAGLLCAGQVGA",
+      "full_sequence": "MRSAAVLAGLLCAGQVGAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAEDLQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN",
+      "sequence": "MRSAAVLAGLLCAGQVGAFVNQHLCGSHL",
+      "junction_after_1based": 18
+    },
+    {
+      "seq_num": 12,
+      "id": "CHGA_L9G_T17D",
+      "substitution": "L9G_T17D",
+      "positions": [9, 17],
+      "leader_sequence": "MRSAAVLAGLLCAGQVDA",
+      "full_sequence": "MRSAAVLAGLLCAGQVDAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAEDLQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN",
+      "sequence": "MRSAAVLAGLLCAGQVDAFVNQHLCGSHL",
+      "junction_after_1based": 18
+    },
+    {
+      "seq_num": 13,
+      "id": "CHGA_L9G_T17P",
+      "substitution": "L9G_T17P",
+      "positions": [9, 17],
+      "leader_sequence": "MRSAAVLAGLLCAGQVPA",
+      "full_sequence": "MRSAAVLAGLLCAGQVPAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAEDLQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN",
+      "sequence": "MRSAAVLAGLLCAGQVPAFVNQHLCGSHL",
+      "junction_after_1based": 18
+    }
+  ],
+  "created_utc": "2026-09-15T07:57:08.952113+00:00",
+  "expected_rows_per_method": 7462
+}

@@ -1,0 +1,7 @@
+analysis,observations,distinct_peptides,INS_positive_donors,retained_positive_donors,retained_distinct_peptides
+exclude_HP 20289,4,3,3,2,2
+exclude_HP18101,5,4,3,2,2
+exclude_HP19026,6,4,4,3,2
+exclude_R360,6,4,4,3,2
+exclude_R361,4,3,3,2,1
+exclude_R369,5,4,3,3,2

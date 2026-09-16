@@ -1,0 +1,4 @@
+peptide,allele,region,net_el_rank_percent,mhc_presentation_rank_percent,net_affinity_nm,mhc_affinity_nm
+RSAAVLACL,HLA-C*03:04,signal,1.1,0.1581249999999983,383.47,89.77339631399772
+SAAVLACLL,HLA-C*03:04,signal,0.64,0.3973641304347808,107.26,60.56707978243507
+CAFVNQHL,HLA-C*03:04,junction,0.95,0.4985597826086803,1648.3,66.50827597240841

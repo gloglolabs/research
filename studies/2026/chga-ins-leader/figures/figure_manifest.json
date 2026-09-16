@@ -1,0 +1,79 @@
+{
+  "matplotlib_version": "3.11.2",
+  "numpy_version": "2.5.3",
+  "outputs": [
+    {
+      "file": "figure1_architecture.pdf",
+      "width_inches": 7.0,
+      "height_inches": 6.5,
+      "sha256": "f9f290e906ea7597689763cb64bf5beee2f6acbea606dd421bc4cc81252ce4c1"
+    },
+    {
+      "file": "figure1_architecture.svg",
+      "width_inches": 7.0,
+      "height_inches": 6.5,
+      "sha256": "57d580bfe54ef9c6ba98d238a990b02b2c71ae1f28ae4f969d1bd06afd51be37"
+    },
+    {
+      "file": "figure1_architecture.png",
+      "width_inches": 7.0,
+      "height_inches": 6.5,
+      "sha256": "c80668a5c01ca0e5cb27ca37a38f7ca941d1bfbe8cb69d23d77a50bf3a68032d"
+    },
+    {
+      "file": "figure2_design_comparison.pdf",
+      "width_inches": 7.0,
+      "height_inches": 7.2,
+      "sha256": "dbfd339e212f1fdb35845ae155c5559ae481ae300024f41c7d8ce9fb7d168534"
+    },
+    {
+      "file": "figure2_design_comparison.svg",
+      "width_inches": 7.0,
+      "height_inches": 7.2,
+      "sha256": "f4d25f30747c08b90bea7185173b6f06bb925e359a8bd70080368acf0ec0e60a"
+    },
+    {
+      "file": "figure2_design_comparison.png",
+      "width_inches": 7.0,
+      "height_inches": 7.2,
+      "sha256": "64a6368259fd29e209bccf192d1cc9546c4ecdd97625c651964dae17c2b816ba"
+    },
+    {
+      "file": "figure3_donor_projection.pdf",
+      "width_inches": 7.0,
+      "height_inches": 5.3,
+      "sha256": "b9148e3d5bce52210cadd2476d0014c098ee45514015c17110f649803d9998e0"
+    },
+    {
+      "file": "figure3_donor_projection.svg",
+      "width_inches": 7.0,
+      "height_inches": 5.3,
+      "sha256": "f9e2b04e7a4495468d8a7c30046ca53edd3530cc879a636d2fb4105f2e5f7911"
+    },
+    {
+      "file": "figure3_donor_projection.png",
+      "width_inches": 7.0,
+      "height_inches": 5.3,
+      "sha256": "cd4b880c139508dfa2f126ca8d251fe668084d7d835a93f61fd71575802862ee"
+    },
+    {
+      "file": "figure4_model_comparison.pdf",
+      "width_inches": 7.0,
+      "height_inches": 6.0,
+      "sha256": "aff09312e228ad120873a49d7132f2dae08fc3bdeac82cd477e2807fd70aeb8c"
+    },
+    {
+      "file": "figure4_model_comparison.svg",
+      "width_inches": 7.0,
+      "height_inches": 6.0,
+      "sha256": "8936671c653676830ff8f6128f4cec7673524e81f88ae0b23146c8056decef7f"
+    },
+    {
+      "file": "figure4_model_comparison.png",
+      "width_inches": 7.0,
+      "height_inches": 6.0,
+      "sha256": "381680d16b9dc6b5b2ff446ba6ca82c0345c992e3796bd1c446c86418249b61e"
+    }
+  ],
+  "rendering": "vector PDF/SVG and300dpi PNG; editable SVG text; embedded PDF TrueType fonts"
+}

@@ -1,0 +1,103 @@
+{
+  "sequences": 16,
+  "all_mature_products_equal_INS25_110": true,
+  "all_13_HLA_scan_constructs_present": true,
+  "predictions": [
+    {
+      "id": "WT_INS",
+      "cleavage_after": 24,
+      "cleavage_probability": 0.972158,
+      "SP_likelihood_as_rounded_json": 0.9998
+    },
+    {
+      "id": "CHGA_BASELINE",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.979955,
+      "SP_likelihood_as_rounded_json": 0.9998
+    },
+    {
+      "id": "CHGA_L9C",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.97926,
+      "SP_likelihood_as_rounded_json": 0.9997
+    },
+    {
+      "id": "CHGA_L9G",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.975353,
+      "SP_likelihood_as_rounded_json": 0.9996
+    },
+    {
+      "id": "CHGA_T17C",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.980329,
+      "SP_likelihood_as_rounded_json": 0.9997
+    },
+    {
+      "id": "CHGA_T17G",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.979723,
+      "SP_likelihood_as_rounded_json": 0.9998
+    },
+    {
+      "id": "CHGA_T17D",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.980673,
+      "SP_likelihood_as_rounded_json": 0.9998
+    },
+    {
+      "id": "CHGA_T17P",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.978909,
+      "SP_likelihood_as_rounded_json": 0.9998
+    },
+    {
+      "id": "CHGA_L9C_T17C",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.979581,
+      "SP_likelihood_as_rounded_json": 0.9997
+    },
+    {
+      "id": "CHGA_L9C_T17G",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.97876,
+      "SP_likelihood_as_rounded_json": 0.9997
+    },
+    {
+      "id": "CHGA_L9C_T17D",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.979873,
+      "SP_likelihood_as_rounded_json": 0.9997
+    },
+    {
+      "id": "CHGA_L9C_T17P",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.9772,
+      "SP_likelihood_as_rounded_json": 0.9997
+    },
+    {
+      "id": "CHGA_L9G_T17C",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.974104,
+      "SP_likelihood_as_rounded_json": 0.9995
+    },
+    {
+      "id": "CHGA_L9G_T17G",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.970388,
+      "SP_likelihood_as_rounded_json": 0.9995
+    },
+    {
+      "id": "CHGA_L9G_T17D",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.973769,
+      "SP_likelihood_as_rounded_json": 0.9996
+    },
+    {
+      "id": "CHGA_L9G_T17P",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.741794,
+      "SP_likelihood_as_rounded_json": 0.8212
+    }
+  ]
+}

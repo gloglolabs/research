@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Cite the relevant study and exact commit or release used."
+title: "GloGlo Research"
+authors:
+  - name: "GloGlo Labs"
+type: software
+repository-code: "https://github.com/gloglolabs/research"
+url: "https://github.com/gloglolabs/research"
+license: MIT

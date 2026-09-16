@@ -1,0 +1,156 @@
+{
+  "rationale": "Exploratory single-residue sensitivity at CHGA leader residue17.\n\nNot a functional construct design. All candidates keep CHGA residues1-16,\nCHGA18 and the complete native INS25-110 sequence fixed. This explores\nwhether model-predicted junction binding is sensitive to the leader's -2\nresidue. Secretion, cleavage, and antigen presentation are not established.\n",
+  "alleles": [
+    "HLA-A*02:01",
+    "HLA-A*24:02",
+    "HLA-A*03:01",
+    "HLA-B*40:01",
+    "HLA-B*49:01",
+    "HLA-C*03:04",
+    "HLA-C*07:01"
+  ],
+  "lengths": [8, 9, 10, 11],
+  "construct_contexts": [
+    {
+      "id": "CHGA_T17A",
+      "substitution": "T17A",
+      "sequence": "MRSAAVLALLLCAGQVAAFVNQHLCGSHL",
+      "variable_position_1based": 17,
+      "junction_after_1based": 18
+    },
+    {
+      "id": "CHGA_T17C",
+      "substitution": "T17C",
+      "sequence": "MRSAAVLALLLCAGQVCAFVNQHLCGSHL",
+      "variable_position_1based": 17,
+      "junction_after_1based": 18
+    },
+    {
+      "id": "CHGA_T17D",
+      "substitution": "T17D",
+      "sequence": "MRSAAVLALLLCAGQVDAFVNQHLCGSHL",
+      "variable_position_1based": 17,
+      "junction_after_1based": 18
+    },
+    {
+      "id": "CHGA_T17E",
+      "substitution": "T17E",
+      "sequence": "MRSAAVLALLLCAGQVEAFVNQHLCGSHL",
+      "variable_position_1based": 17,
+      "junction_after_1based": 18
+    },
+    {
+      "id": "CHGA_T17F",
+      "substitution": "T17F",
+      "sequence": "MRSAAVLALLLCAGQVFAFVNQHLCGSHL",
+      "variable_position_1based": 17,
+      "junction_after_1based": 18
+    },
+    {
+      "id": "CHGA_T17G",
+      "substitution": "T17G",
+      "sequence": "MRSAAVLALLLCAGQVGAFVNQHLCGSHL",
+      "variable_position_1based": 17,
+      "junction_after_1based": 18
+    },
+    {
+      "id": "CHGA_T17H",
+      "substitution": "T17H",
+      "sequence": "MRSAAVLALLLCAGQVHAFVNQHLCGSHL",
+      "variable_position_1based": 17,
+      "junction_after_1based": 18
+    },
+    {
+      "id": "CHGA_T17I",
+      "substitution": "T17I",
+      "sequence": "MRSAAVLALLLCAGQVIAFVNQHLCGSHL",
+      "variable_position_1based": 17,
+      "junction_after_1based": 18
+    },
+    {
+      "id": "CHGA_T17K",
+      "substitution": "T17K",
+      "sequence": "MRSAAVLALLLCAGQVKAFVNQHLCGSHL",
+      "variable_position_1based": 17,
+      "junction_after_1based": 18
+    },
+    {
+      "id": "CHGA_T17L",
+      "substitution": "T17L",
+      "sequence": "MRSAAVLALLLCAGQVLAFVNQHLCGSHL",
+      "variable_position_1based": 17,
+      "junction_after_1based": 18
+    },
+    {
+      "id": "CHGA_T17M",
+      "substitution": "T17M",
+      "sequence": "MRSAAVLALLLCAGQVMAFVNQHLCGSHL",
+      "variable_position_1based": 17,
+      "junction_after_1based": 18
+    },
+    {
+      "id": "CHGA_T17N",
+      "substitution": "T17N",
+      "sequence": "MRSAAVLALLLCAGQVNAFVNQHLCGSHL",
+      "variable_position_1based": 17,
+      "junction_after_1based": 18
+    },
+    {
+      "id": "CHGA_T17P",
+      "substitution": "T17P",
+      "sequence": "MRSAAVLALLLCAGQVPAFVNQHLCGSHL",
+      "variable_position_1based": 17,
+      "junction_after_1based": 18
+    },
+    {
+      "id": "CHGA_T17Q",
+      "substitution": "T17Q",
+      "sequence": "MRSAAVLALLLCAGQVQAFVNQHLCGSHL",
+      "variable_position_1based": 17,
+      "junction_after_1based": 18
+    },
+    {
+      "id": "CHGA_T17R",
+      "substitution": "T17R",
+      "sequence": "MRSAAVLALLLCAGQVRAFVNQHLCGSHL",
+      "variable_position_1based": 17,
+      "junction_after_1based": 18
+    },
+    {
+      "id": "CHGA_T17S",
+      "substitution": "T17S",
+      "sequence": "MRSAAVLALLLCAGQVSAFVNQHLCGSHL",
+      "variable_position_1based": 17,
+      "junction_after_1based": 18
+    },
+    {
+      "id": "CHGA_T17T",
+      "substitution": "T17T",
+      "sequence": "MRSAAVLALLLCAGQVTAFVNQHLCGSHL",
+      "variable_position_1based": 17,
+      "junction_after_1based": 18
+    },
+    {
+      "id": "CHGA_T17V",
+      "substitution": "T17V",
+      "sequence": "MRSAAVLALLLCAGQVVAFVNQHLCGSHL",
+      "variable_position_1based": 17,
+      "junction_after_1based": 18
+    },
+    {
+      "id": "CHGA_T17W",
+      "substitution": "T17W",
+      "sequence": "MRSAAVLALLLCAGQVWAFVNQHLCGSHL",
+      "variable_position_1based": 17,
+      "junction_after_1based": 18
+    },
+    {
+      "id": "CHGA_T17Y",
+      "substitution": "T17Y",
+      "sequence": "MRSAAVLALLLCAGQVYAFVNQHLCGSHL",
+      "variable_position_1based": 17,
+      "junction_after_1based": 18
+    }
+  ],
+  "created_at_utc": "2026-09-15T07:39:00.583683+00:00"
+}

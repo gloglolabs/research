@@ -1,0 +1,25 @@
+variant,model,context,cutoff_percent,windows,count
+baseline,NetMHCpan EL,with_flanks,0.5,504,4
+baseline,NetMHCpan EL,with_flanks,1.0,504,8
+baseline,NetMHCpan EL,with_flanks,2.0,504,17
+baseline,NetMHCpan EL,without_flanks,0.5,504,4
+baseline,NetMHCpan EL,without_flanks,1.0,504,8
+baseline,NetMHCpan EL,without_flanks,2.0,504,17
+baseline,MHCflurry presentation,with_flanks,0.5,504,9
+baseline,MHCflurry presentation,with_flanks,1.0,504,19
+baseline,MHCflurry presentation,with_flanks,2.0,504,27
+baseline,MHCflurry presentation,without_flanks,0.5,504,4
+baseline,MHCflurry presentation,without_flanks,1.0,504,12
+baseline,MHCflurry presentation,without_flanks,2.0,504,21
+L9C_T17C,NetMHCpan EL,with_flanks,0.5,504,0
+L9C_T17C,NetMHCpan EL,with_flanks,1.0,504,2
+L9C_T17C,NetMHCpan EL,with_flanks,2.0,504,8
+L9C_T17C,NetMHCpan EL,without_flanks,0.5,504,0
+L9C_T17C,NetMHCpan EL,without_flanks,1.0,504,2
+L9C_T17C,NetMHCpan EL,without_flanks,2.0,504,8
+L9C_T17C,MHCflurry presentation,with_flanks,0.5,504,3
+L9C_T17C,MHCflurry presentation,with_flanks,1.0,504,6
+L9C_T17C,MHCflurry presentation,with_flanks,2.0,504,14
+L9C_T17C,MHCflurry presentation,without_flanks,0.5,504,1
+L9C_T17C,MHCflurry presentation,without_flanks,1.0,504,5
+L9C_T17C,MHCflurry presentation,without_flanks,2.0,504,12

@@ -1,0 +1,32 @@
+{
+  "id": "2026-chga-ins-leader",
+  "title": "L9C and T17C in the CHGA leader of engineered insulin",
+  "date": "2026-09-15",
+  "type": "computational-research-note",
+  "reproduction": {
+    "python": ">=3.10",
+    "entrypoint": "reproducibility/reproduce.py",
+    "reference_results": "reproducibility/results",
+    "expected_csv_files": [
+      "criteria42_summary.csv",
+      "donor_leave_one_out.csv",
+      "donor_peptide_matrix.csv",
+      "donor_sensitivity.csv",
+      "double_netmhcpan_summary.csv",
+      "expanded_criteria42_summary.csv",
+      "expanded_objectives42.csv",
+      "final_peptide_HLA_predictions.csv",
+      "inflammation_projection_summary.csv",
+      "leader_3_9_netmhcpan_summary.csv",
+      "objectives42.csv",
+      "position17_criteria42_summary.csv",
+      "position17_netmhcpan_summary.csv",
+      "position17_objectives42.csv",
+      "prediction_counts_by_allele.csv",
+      "prediction_totals.csv",
+      "reference_junction_comparison.csv",
+      "reference_netmhcpan_summary.csv",
+      "single_mhcflurry_summary.csv"
+    ]
+  }
+}

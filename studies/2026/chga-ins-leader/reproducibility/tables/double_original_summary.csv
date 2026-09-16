@@ -1,0 +1,14 @@
+variant,seq_num,leader_sequence,leader_windows,leader_EL_lt0.5,leader_emergent_EL_lt0.5,leader_removed_EL_lt0.5,leader_EL_lt1,leader_emergent_EL_lt1,leader_removed_EL_lt1,leader_EL_lt2,leader_emergent_EL_lt2,leader_removed_EL_lt2,leader_BA_lt50nM,leader_BA_lt500nM,junction_windows,junction_EL_lt0.5,junction_emergent_EL_lt0.5,junction_removed_EL_lt0.5,junction_EL_lt1,junction_emergent_EL_lt1,junction_removed_EL_lt1,junction_EL_lt2,junction_emergent_EL_lt2,junction_removed_EL_lt2,junction_BA_lt50nM,junction_BA_lt500nM,leader_and_junction_windows,leader_and_junction_EL_lt0.5,leader_and_junction_emergent_EL_lt0.5,leader_and_junction_removed_EL_lt0.5,leader_and_junction_EL_lt1,leader_and_junction_emergent_EL_lt1,leader_and_junction_removed_EL_lt1,leader_and_junction_EL_lt2,leader_and_junction_emergent_EL_lt2,leader_and_junction_removed_EL_lt2,leader_and_junction_BA_lt50nM,leader_and_junction_BA_lt500nM,leader_count_pareto,all_count_pareto
+baseline,1,MRSAAVLALLLCAGQVTA,266,2,0,0,6,0,0,13,0,0,1,7,238,2,0,0,2,0,0,4,0,0,0,2,504,4,0,0,8,0,0,17,0,0,1,9,False,False
+L9C,2,MRSAAVLACLLCAGQVTA,266,0,0,2,1,0,5,7,0,6,0,5,238,2,0,0,2,0,0,4,0,0,0,2,504,2,0,2,3,0,5,11,0,6,0,7,False,False
+L9G,3,MRSAAVLAGLLCAGQVTA,266,0,0,2,2,0,4,10,2,5,0,5,238,2,0,0,2,0,0,4,0,0,0,2,504,2,0,2,4,0,4,14,2,5,0,7,False,False
+T17C,4,MRSAAVLALLLCAGQVCA,266,2,0,0,6,0,0,10,0,3,1,5,238,0,0,2,1,0,1,2,0,2,0,1,504,2,0,2,7,0,1,12,0,5,1,6,False,False
+T17G,5,MRSAAVLALLLCAGQVGA,266,2,0,0,6,0,0,10,0,3,1,6,238,0,0,2,2,0,0,2,0,2,0,1,504,2,0,2,8,0,0,12,0,5,1,7,False,False
+L9C_T17C,6,MRSAAVLACLLCAGQVCA,266,0,0,2,1,0,5,6,0,7,0,4,238,0,0,2,1,0,1,2,0,2,0,1,504,0,0,4,2,0,6,8,0,9,0,5,True,True
+L9C_T17G,7,MRSAAVLACLLCAGQVGA,266,0,0,2,1,0,5,6,0,7,0,4,238,0,0,2,2,0,0,2,0,2,0,1,504,0,0,4,3,0,5,8,0,9,0,5,True,False
+L9C_T17D,8,MRSAAVLACLLCAGQVDA,266,0,0,2,1,0,5,6,0,7,0,4,238,0,0,2,0,0,2,4,4,4,0,1,504,0,0,4,1,0,7,10,4,11,0,5,True,True
+L9C_T17P,9,MRSAAVLACLLCAGQVPA,266,0,0,2,1,0,5,6,0,7,0,6,238,0,0,2,1,0,1,3,1,2,0,1,504,0,0,4,2,0,6,9,1,9,0,7,False,False
+L9G_T17C,10,MRSAAVLAGLLCAGQVCA,266,0,0,2,2,0,4,8,2,7,0,3,238,0,0,2,1,0,1,2,0,2,0,1,504,0,0,4,3,0,5,10,2,9,0,4,True,True
+L9G_T17G,11,MRSAAVLAGLLCAGQVGA,266,0,0,2,2,0,4,8,2,7,0,3,238,0,0,2,2,0,0,2,0,2,0,1,504,0,0,4,4,0,4,10,2,9,0,4,True,False
+L9G_T17D,12,MRSAAVLAGLLCAGQVDA,266,0,0,2,2,0,4,8,2,7,0,3,238,0,0,2,0,0,2,4,4,4,0,1,504,0,0,4,2,0,6,12,6,11,0,4,True,True
+L9G_T17P,13,MRSAAVLAGLLCAGQVPA,266,0,0,2,2,0,4,8,2,7,0,5,238,0,0,2,1,0,1,3,1,2,0,1,504,0,0,4,3,0,5,11,3,9,0,6,False,False

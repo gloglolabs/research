@@ -1,0 +1,23 @@
+### Figure 1 Sequence architecture and computational search design
+
+![Native INS and canonical CHGA INS precursor architectures, cleavage anchored sequence alignment, and search stages](figures/figure1_architecture.png)
+
+**A**, Canonical human INS and the reconstructed CHGA1–18/INS25–110 fusion, with the L9C + T17C candidate beneath. Bars are proportional to precursor length; numbers above the boundaries denote cleavage positions. All fusion constructs retain the complete proinsulin sequence INS25–110. **B**, Sequence alignment anchored at the signal/proinsulin boundary, with substitutions at CHGA residues 9 and 17 highlighted. The six-residue indentation reflects the shorter CHGA signal. **C**, Search stages. Substitution counts exclude their controls: 19 choices at position 17 and 133 substitutions at positions 3–9 precede eight explicit combinations. Seven HLA alleles, two presentation models and three fixed rank cutoffs define 42 count criteria. Architectures are canonical sequence reconstructions; the synthesized construct sequence in Kobaisi et al. was not an input to this analysis [1].
+
+### Figure 2 Allele resolved evaluation of all eight double substitutions
+
+![Allele and threshold heatmaps for eight double substitutions with processing context robustness and baseline versus selected candidate counts](figures/figure2_design_comparison.png)
+
+**A, B**, Changes from the canonical CHGA–INS baseline in qualifying peptide/HLA-window counts for NetMHCpan EL and MHCflurry presentation with full flanks. Each allele has strict 0.5%, 1% and 2% rank cutoffs. Blue denotes fewer candidates, orange denotes more, and unnumbered gray cells denote zero change. **C**, Improved, unchanged and worsened criteria among the 42 comparisons, with full flanks in the upper bar and no flanks in the lower hatched bar. L9C + T17C improves 16/42 criteria with full flanks and 15/42 without flanks, with no worsening in either context. **D**, Baseline and selected-variant totals, shown separately for each model/context. Each total uses 504 overlapping peptide/HLA windows; these are computational counts, not independent biological observations. Percentile scales are model-specific and were not pooled.
+
+### Figure 3 Donor resolved projection identifies retained insulin sequences
+
+![Four curated insulin peptides projected onto native INS and a presence matrix across six donor preparations](figures/figure3_donor_projection.png)
+
+**A**, Four distinct INS ligands from six non-diabetic, cytokine-treated mixed-islet donor preparations in Nanaware et al.'s curated class-I table [3], mapped to canonical INS coordinates. The dashed line marks the native signal/proinsulin boundary. Orange sequences change in the canonical signal replacement; teal sequences retain their amino-acid sequence. The retained GSHLVEALY and HLVEALYLV intervals fall within INS32–42, corresponding to insulin B8–18. **B**, Exact donor–peptide detections: six observations across four INS-positive preparations among six preparations examined. The two retained peptides occur in three of the four INS-positive preparations. Gray cells indicate absence from the curated table, not demonstrated biological absence. Numbers beneath donor identifiers give total curated class-I peptide species and reveal unequal detection depth. No peptide intensity was pooled across donors. Predicted HLA assignments in the source table are not treated as experimentally demonstrated restrictions here.
+
+### Figure 4 Cross model predictions reveal retained candidates and affinity tradeoffs
+
+![Junction affinity comparisons, residual C03 04 presentation candidates, and the A02 01 leader affinity tradeoff](figures/figure4_model_comparison.png)
+
+**A**, HLA-C*03:04 affinity predictions for the native INS junction, canonical fusion junction, selected double variant and its nested 8mer. The native AAAFVNQHL peptide is predicted to bind more strongly than reconstructed VTAFVNQHL. **B**, The three L9C + T17C candidates below the MHCflurry 0.5% presentation-rank cutoff: RSAAVLACL, SAAVLACLL and CAFVNQHL, all shown for C*03:04. The dotted line marks 0.5%; NetMHCpan EL and MHCflurry presentation ranks remain separate model estimates. **C**, An A*02:01 affinity tradeoff: the selected candidate's VLACLLCAGQV is predicted to bind more strongly than native VLALLLCAGQV, while the L9G + T17C alternative produces a larger shift. Lower nM values correspond to tighter predicted binding. Points are individual model outputs, not replicate measurements or uncertainty estimates; presentation-count improvement does not imply uniformly weakened affinity.

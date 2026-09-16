@@ -1,0 +1,14 @@
+construct_id,substitution,leader_sequence,precursor_length,edited_positions_1based,predicted_cleavage_after,cleavage_probability,native_INS25_110_unchanged,sequence_status
+CHGA_baseline,baseline,MRSAAVLALLLCAGQVTA,104,,18,0.979955,True,canonical sensitivity design; exact published synthetic construct unavailable
+CHGA_L9C,L9C,MRSAAVLACLLCAGQVTA,104,9,18,0.97926,True,canonical sensitivity design; exact published synthetic construct unavailable
+CHGA_L9G,L9G,MRSAAVLAGLLCAGQVTA,104,9,18,0.975353,True,canonical sensitivity design; exact published synthetic construct unavailable
+CHGA_T17C,T17C,MRSAAVLALLLCAGQVCA,104,17,18,0.980329,True,canonical sensitivity design; exact published synthetic construct unavailable
+CHGA_T17G,T17G,MRSAAVLALLLCAGQVGA,104,17,18,0.979723,True,canonical sensitivity design; exact published synthetic construct unavailable
+CHGA_L9C_T17C,L9C_T17C,MRSAAVLACLLCAGQVCA,104,9;17,18,0.979581,True,canonical sensitivity design; exact published synthetic construct unavailable
+CHGA_L9C_T17G,L9C_T17G,MRSAAVLACLLCAGQVGA,104,9;17,18,0.97876,True,canonical sensitivity design; exact published synthetic construct unavailable
+CHGA_L9C_T17D,L9C_T17D,MRSAAVLACLLCAGQVDA,104,9;17,18,0.979873,True,canonical sensitivity design; exact published synthetic construct unavailable
+CHGA_L9C_T17P,L9C_T17P,MRSAAVLACLLCAGQVPA,104,9;17,18,0.9772,True,canonical sensitivity design; exact published synthetic construct unavailable
+CHGA_L9G_T17C,L9G_T17C,MRSAAVLAGLLCAGQVCA,104,9;17,18,0.974104,True,canonical sensitivity design; exact published synthetic construct unavailable
+CHGA_L9G_T17G,L9G_T17G,MRSAAVLAGLLCAGQVGA,104,9;17,18,0.970388,True,canonical sensitivity design; exact published synthetic construct unavailable
+CHGA_L9G_T17D,L9G_T17D,MRSAAVLAGLLCAGQVDA,104,9;17,18,0.973769,True,canonical sensitivity design; exact published synthetic construct unavailable
+CHGA_L9G_T17P,L9G_T17P,MRSAAVLAGLLCAGQVPA,104,9;17,18,0.741794,True,canonical sensitivity design; exact published synthetic construct unavailable

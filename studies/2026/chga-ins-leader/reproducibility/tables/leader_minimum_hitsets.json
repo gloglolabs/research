@@ -1,0 +1,61 @@
+[
+  {
+    "EL_strict_cutoff": 0.5,
+    "original_candidate_pairs": 4,
+    "mutable_positions": "canonical CHGA leader1-18 only",
+    "minimum_edited_positions": 2,
+    "all_minimum_position_sets": [
+      [3, 17],
+      [3, 18],
+      [4, 17],
+      [4, 18],
+      [5, 17],
+      [5, 18],
+      [6, 17],
+      [6, 18],
+      [7, 17],
+      [7, 18],
+      [8, 17],
+      [8, 18],
+      [9, 17],
+      [9, 18]
+    ],
+    "interpretation": "Necessary sequence-hit condition only. Does not assert a replacement removes binding or avoids creating other binders."
+  },
+  {
+    "EL_strict_cutoff": 1,
+    "original_candidate_pairs": 8,
+    "mutable_positions": "canonical CHGA leader1-18 only",
+    "minimum_edited_positions": 2,
+    "all_minimum_position_sets": [
+      [3, 17],
+      [3, 18],
+      [4, 17],
+      [4, 18],
+      [5, 17],
+      [5, 18],
+      [6, 17],
+      [6, 18],
+      [7, 17],
+      [7, 18],
+      [8, 17],
+      [8, 18],
+      [9, 17],
+      [9, 18]
+    ],
+    "interpretation": "Necessary sequence-hit condition only. Does not assert a replacement removes binding or avoids creating other binders."
+  },
+  {
+    "EL_strict_cutoff": 2,
+    "original_candidate_pairs": 17,
+    "mutable_positions": "canonical CHGA leader1-18 only",
+    "minimum_edited_positions": 2,
+    "all_minimum_position_sets": [
+      [8, 17],
+      [8, 18],
+      [9, 17],
+      [9, 18]
+    ],
+    "interpretation": "Necessary sequence-hit condition only. Does not assert a replacement removes binding or avoids creating other binders."
+  }
+]

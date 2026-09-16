@@ -1,0 +1,4 @@
+region,distinct_peptides,basal_identified_at_least_2of4,IFNa_identified_at_least_2of4
+INS boundary overlap,1,0,0
+INS retained 25-110,25,8,12
+INS signal 1-24,3,3,1

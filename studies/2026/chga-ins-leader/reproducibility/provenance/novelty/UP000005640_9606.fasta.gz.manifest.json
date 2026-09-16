@@ -1,0 +1,18 @@
+{
+  "url": "https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/reference_proteomes/Eukaryota/UP000005640/UP000005640_9606.fasta.gz",
+  "retrieved_at_utc": "2026-09-15T07:51:18.501963+00:00",
+  "headers": {
+    "Date": "Tue, 15 Sep 2026 07:51:16 GMT",
+    "Server": "Apache/2.4.65 (Ubuntu) OpenSSL/3.0.13",
+    "Last-Modified": "Thu, 03 Sep 2026 18:00:00 GMT",
+    "ETag": "\"2d9a9ed-65a97eba0a800\"",
+    "Accept-Ranges": "bytes",
+    "Content-Length": "47819245",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Access-Control-Allow-Origin": "*",
+    "Connection": "close",
+    "Content-Type": "application/x-gzip"
+  },
+  "sha256": "3c2e371b769543fac552a5ff0bd9f8a4d8eb136aab53b08e623d1ba417632fbd",
+  "bytes": 47819245
+}

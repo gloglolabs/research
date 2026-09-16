@@ -1,0 +1,109 @@
+{
+  "analysis": "Canonical INS signal-peptide replacement projection on wild-type Carr\u00e92025 ECN90; not a measured edited-cell outcome",
+  "source_url": "https://www.nature.com/articles/s41467-025-55908-9",
+  "pmid": "39824805",
+  "source_data_url": "https://static-content.springer-cdn.com/esm/art%3A10.1038%2Fs41467-025-55908-9/MediaObjects/41467_2025_55908_MOESM14_ESM.xlsx",
+  "quantitative_method": "Main: source-reported mean total Progenesis ion abundance across 4 biological replicates, Fusion Lumos. Independent: source-reported median peptide intensity summary across a 3-biological-replicate proteasome experiment, timsTOF SCP; compare basal and IFN\u03b1-only arms. No per-replicate B10\u201318 or CHGA2\u201310 intensities recovered; Fig8c supplies separate run-level values for SP15\u201324 and GER44\u201352.",
+  "quantified_unique_sequences": 432,
+  "conventional_sequences": 784,
+  "ins_counts": {
+    "INS boundary overlap": {
+      "total_distinct_sequences": 1,
+      "basal_any": 0,
+      "ifna_any": 1,
+      "basal_ge2": 0,
+      "ifna_ge2": 0,
+      "both_4of4": 0,
+      "quantified_both": 1,
+      "median_fold_quantified": 10.131262844177801
+    },
+    "INS retained 25-110": {
+      "total_distinct_sequences": 25,
+      "basal_any": 18,
+      "ifna_any": 18,
+      "basal_ge2": 8,
+      "ifna_ge2": 12,
+      "both_4of4": 2,
+      "quantified_both": 8,
+      "median_fold_quantified": 24.10059482078649
+    },
+    "INS signal 1-24": {
+      "total_distinct_sequences": 3,
+      "basal_any": 3,
+      "ifna_any": 2,
+      "basal_ge2": 3,
+      "ifna_ge2": 1,
+      "both_4of4": 1,
+      "quantified_both": 2,
+      "median_fold_quantified": 1.0358094963073488
+    }
+  },
+  "b10_relative_to_sp_induction": 10.330662725804384,
+  "independent_b10_relative_to_sp_induction": 1.2568389830026305,
+  "hla_assignment_note": "SuppData2 NetMHCpan4.1a predictions. RSAAVLALL E01:01 here, not experimentally proven allele-specific source of its measured increase.",
+  "sequence_mapping_failures": [
+    {
+      "peptide": "KEIDIAATL",
+      "gene": "PTPRN",
+      "reported_start": 970,
+      "reported_end": 978
+    },
+    {
+      "peptide": "KEIDIAATLE",
+      "gene": "PTPRN",
+      "reported_start": 970,
+      "reported_end": 979
+    },
+    {
+      "peptide": "AVAEEVNAILK",
+      "gene": "PTPRN",
+      "reported_start": 1001,
+      "reported_end": 1011
+    }
+  ],
+  "input_sha256": {
+    "41467_2025_55908_MOESM11_ESM.xlsx": "8d432dc29c33e10d5f600d850f63a0a1e8adb233544a228e6ce584dc0a8520d9",
+    "41467_2025_55908_MOESM10_ESM.xlsx": "2f7fc854fec3656a6ccc83be178c8c9da8cadef3ac74d9fb8e2df4b358742f99",
+    "41467_2025_55908_MOESM7_ESM.xlsx": "a241192f03af6951fe14daef050fca78b11f82e5f072c9b940d1a86493a3adbc",
+    "41467_2025_55908_MOESM6_ESM.xlsx": "aa724af9a89b11e75945877cef64ce4b0f0edaac810e85be354a1a422a035e01",
+    "41467_2025_55908_MOESM9_ESM.xlsx": "5944584b42f2513a41d31242b9dbc7c986d415cdddf7de419fb9be442ccc4385",
+    "41467_2025_55908_MOESM8_ESM.xlsx": "805306d5828d1206798c109351b7b7cb69eda5c05cc67a27c7eeeaafa5336f85",
+    "41467_2025_55908_MOESM3_ESM.xlsx": "63f9081c13d6b01e7b71fa94067a39e3f104ee7c1d36d45e9e784e6832d16e0d",
+    "41467_2025_55908_MOESM14_ESM.xlsx": "78aa2c8ed534908be7b30afb5bb4d249caa3b906cdcff6535aac77185349df9c",
+    "41467_2025_55908_MOESM4_ESM.xlsx": "03738572b99302a11ce7a40c350d45f6de3b019ef27b065c92455b1b2fbc7292",
+    "41467_2025_55908_MOESM5_ESM.xlsx": "c822a43ca04c6ad454f5d4f8744ac7bfb7a71bf760830c537b54e2b7b3a2d28a"
+  },
+  "limitations": [
+    "No replicate-level variance or target-specific p-values for B10\u201318 or CHGA2\u201310 can be calculated from condition summaries. Fig8c run-level values for SP and GER are separately audited.",
+    "Peptide ion response factors differ; fold changes within a peptide are valid summaries, but raw intensities across different peptides do not estimate molecular abundance ratios.",
+    "Whole INS coordinates1-24 are a canonical projection. Exact replacement and junction sequence not available. Sequence retention does not establish unchanged processing in the engineered cells.",
+    "Candidate lists are beta-cell-enriched peptide sequences rather than all MS peptides. Shared INS/INS-IGF2 source mapping is preserved.",
+    "Main and independent measurements have different platforms and aggregations; magnitude does not replicate closely.",
+    "MS non-detection is not absence. Classical-A/B/C vs HLA-E restriction is not resolved by pan-HLA immunoprecipitation.",
+    "Figure8c SP15\u201324 run-level means give 0.904-fold IFN/basal, versus1.089-fold inFigure4; GER44\u201352 means reconcile. The reason for the SP discrepancy is not specified. The exact10.33x B10/SP differential is Figure4-specific."
+  ],
+  "figure4_figure8_consistency": [
+    {
+      "peptide": "ALWGPDPAAA",
+      "figure8c_mean_basal": 57795816.21923873,
+      "figure8c_mean_ifna": 52217974.30679298,
+      "figure8c_fold": 0.9034905590521096,
+      "figure4_mean_basal": 198512544.688477,
+      "figure4_mean_ifna": 216232394.06463,
+      "figure4_fold": 1.0892631214010202,
+      "figure4_over_figure8_basal": 3.4347217095343545,
+      "figure4_over_figure8_ifna": 4.140957150007647
+    },
+    {
+      "peptide": "GERGFFYTP",
+      "figure8c_mean_basal": 74824.51601268793,
+      "figure8c_mean_ifna": 1081120.409803552,
+      "figure8c_fold": 14.448745777656983,
+      "figure4_mean_basal": 74824.5162821918,
+      "figure4_mean_ifna": 1081120.41468012,
+      "figure4_fold": 14.44874579078871,
+      "figure4_over_figure8_basal": 1.0000000036018124,
+      "figure4_over_figure8_ifna": 1.0000000045106614
+    }
+  ]
+}

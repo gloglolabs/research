@@ -1,0 +1,6 @@
+analysis,INS_donor_peptide_observations,INS_distinct_species,changed_distinct_species,retained_distinct_species,INS_positive_donors,donors_with_retained_INS_species
+authors_curated_S5,6,4,2,2,4,3
+drop_exact_blank_positive_keep_unknown,5,4,2,2,4,3
+require_explicit_zero_exact_blank,4,4,2,2,3,2
+drop_same_donor_6aa_blank_overlap_keep_unknown,5,4,2,2,4,3
+exclude_lowest_depth_donor_HP18101_16_total_peptides,5,4,2,2,3,2

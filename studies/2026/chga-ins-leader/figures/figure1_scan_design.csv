@@ -1,0 +1,4 @@
+stage,positions,substitutions,controls,scored_sequences
+Junction site,17,19,1,20
+N-terminal leader,3-9,133,1,134
+Explicit combinations,9 and 17,8,5,13

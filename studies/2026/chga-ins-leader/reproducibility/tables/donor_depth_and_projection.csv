@@ -1,0 +1,7 @@
+donor,all_curated_mhci_species,INS_species,INS_inside_signal,INS_boundary_crossing,INS_retained_downstream,INS_changed_fraction_of_detected_species,INS_retained_fraction_of_detected_species,retained_INS_sequences,CHGA_signal_species
+HP 20289,1458,2,0,1,1,0.5,0.5,HLVEALYLV,1
+HP18101,16,1,0,0,1,0.0,1.0,HLVEALYLV,0
+HP19026,237,0,0,0,0,,,,0
+R360,836,0,0,0,0,,,,0
+R361,477,2,1,0,1,0.5,0.5,GSHLVEALY,0
+R369,742,1,1,0,0,1.0,0.0,,0

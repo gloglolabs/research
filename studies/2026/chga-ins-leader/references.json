@@ -1,0 +1,1111 @@
+{
+  "reference_records": [
+    {
+      "id": "kobaisi2026",
+      "verified": true,
+      "title": "Engineering the insulin signal peptide to protect human pancreatic beta cells from autoimmune destruction.",
+      "authors": [
+        {
+          "given": "Farah",
+          "family": "Kobaisi",
+          "initials": "F",
+          "indexed_name": "Kobaisi F"
+        },
+        {
+          "given": "Masaya",
+          "family": "Oshima",
+          "initials": "M",
+          "indexed_name": "Oshima M"
+        },
+        {
+          "given": "Zhicheng",
+          "family": "Zhou",
+          "initials": "Z",
+          "indexed_name": "Zhou Z"
+        },
+        {
+          "given": "Delphine",
+          "family": "Thibaut",
+          "initials": "D",
+          "indexed_name": "Thibaut D"
+        },
+        {
+          "given": "Abir",
+          "family": "Kobaisi",
+          "initials": "A",
+          "indexed_name": "Kobaisi A"
+        },
+        {
+          "given": "Barbara",
+          "family": "Brandao",
+          "initials": "B",
+          "indexed_name": "Brandao B"
+        },
+        {
+          "given": "Roberto",
+          "family": "Mallone",
+          "initials": "R",
+          "indexed_name": "Mallone R"
+        },
+        {
+          "given": "Raphael",
+          "family": "Scharfmann",
+          "initials": "R",
+          "indexed_name": "Scharfmann R"
+        }
+      ],
+      "journal": "Cell reports",
+      "journal_abbreviation": "Cell Rep",
+      "year": 2026,
+      "volume": "45",
+      "issue": "9",
+      "pages_or_article_number": "117941",
+      "doi": "10.1016/j.celrep.2026.117941",
+      "pmid": "42690930",
+      "pmcid": null,
+      "first_publication_date": "2026-09-03",
+      "electronic_publication_date": "2026-09-03",
+      "journal_publication_date": "2026 Sep",
+      "url": "https://doi.org/10.1016/j.celrep.2026.117941",
+      "verification_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1016%2Fj.celrep.2026.117941%22&format=json&resultType=core",
+      "verified_utc": "2026-09-15T21:09:45.619892+00:00",
+      "publisher_or_primary_source_url": "https://www.cell.com/cell-reports/fulltext/S2211-1247(26)01019-3",
+      "recommended_citation_year": 2026,
+      "bibliographic_note": "First online3September2026; volume45(9),article117941. Do not describe all assays as iPSC-derived beta-cell experiments."
+    },
+    {
+      "id": "nanaware2025",
+      "verified": true,
+      "title": "The antigen presentation landscape of cytokine-stressed human pancreatic islets.",
+      "authors": [
+        {
+          "given": "Padma P",
+          "family": "Nanaware",
+          "initials": "PP",
+          "indexed_name": "Nanaware PP"
+        },
+        {
+          "given": "J Mauricio",
+          "family": "Calvo-Calle",
+          "initials": "JM",
+          "indexed_name": "Calvo-Calle JM"
+        },
+        {
+          "given": "Sambra D",
+          "family": "Redick",
+          "initials": "SD",
+          "indexed_name": "Redick SD"
+        },
+        {
+          "given": "Mason W",
+          "family": "Tarpley",
+          "initials": "MW",
+          "indexed_name": "Tarpley MW"
+        },
+        {
+          "given": "John",
+          "family": "Cruz",
+          "initials": "J",
+          "indexed_name": "Cruz J"
+        },
+        {
+          "given": "Cristina C",
+          "family": "Clement",
+          "initials": "CC",
+          "indexed_name": "Clement CC"
+        },
+        {
+          "given": "Anthony",
+          "family": "Manganaro",
+          "initials": "A",
+          "indexed_name": "Manganaro A"
+        },
+        {
+          "given": "Erandi E",
+          "family": "Velarde de la Cruz",
+          "initials": "EE",
+          "indexed_name": "Velarde de la Cruz EE"
+        },
+        {
+          "given": "Khaja",
+          "family": "Muneeruddin",
+          "initials": "K",
+          "indexed_name": "Muneeruddin K"
+        },
+        {
+          "given": "Melissa",
+          "family": "Faulkner",
+          "initials": "M",
+          "indexed_name": "Faulkner M"
+        },
+        {
+          "given": "Jennifer P",
+          "family": "Wang",
+          "initials": "JP",
+          "indexed_name": "Wang JP"
+        },
+        {
+          "given": "Scott A",
+          "family": "Shaffer",
+          "initials": "SA",
+          "indexed_name": "Shaffer SA"
+        },
+        {
+          "given": "David M",
+          "family": "Harlan",
+          "initials": "DM",
+          "indexed_name": "Harlan DM"
+        },
+        {
+          "given": "Laura",
+          "family": "Santambrogio",
+          "initials": "L",
+          "indexed_name": "Santambrogio L"
+        },
+        {
+          "given": "Sally C",
+          "family": "Kent",
+          "initials": "SC",
+          "indexed_name": "Kent SC"
+        },
+        {
+          "given": "Lawrence J",
+          "family": "Stern",
+          "initials": "LJ",
+          "indexed_name": "Stern LJ"
+        }
+      ],
+      "journal": "Cell reports",
+      "journal_abbreviation": "Cell Rep",
+      "year": 2025,
+      "volume": "44",
+      "issue": "8",
+      "pages_or_article_number": "115927",
+      "doi": "10.1016/j.celrep.2025.115927",
+      "pmid": "40684438",
+      "pmcid": "PMC12624573",
+      "first_publication_date": "2025-07-19",
+      "electronic_publication_date": "2025-07-19",
+      "journal_publication_date": "2025 Aug",
+      "url": "https://doi.org/10.1016/j.celrep.2025.115927",
+      "verification_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1016%2Fj.celrep.2025.115927%22&format=json&resultType=core",
+      "verified_utc": "2026-09-15T21:09:45.619922+00:00",
+      "publisher_or_primary_source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12624573/",
+      "recommended_citation_year": 2025
+    },
+    {
+      "id": "carre2025",
+      "verified": true,
+      "title": "Interferon-α promotes HLA-B-restricted presentation of conventional and alternative antigens in human pancreatic β-cells.",
+      "authors": [
+        {
+          "given": "Alexia",
+          "family": "Carré",
+          "initials": "A",
+          "indexed_name": "Carré A"
+        },
+        {
+          "given": "Fatoumata",
+          "family": "Samassa",
+          "initials": "F",
+          "indexed_name": "Samassa F"
+        },
+        {
+          "given": "Zhicheng",
+          "family": "Zhou",
+          "initials": "Z",
+          "indexed_name": "Zhou Z"
+        },
+        {
+          "given": "Javier",
+          "family": "Perez-Hernandez",
+          "initials": "J",
+          "indexed_name": "Perez-Hernandez J"
+        },
+        {
+          "given": "Christiana",
+          "family": "Lekka",
+          "initials": "C",
+          "indexed_name": "Lekka C"
+        },
+        {
+          "given": "Anthony",
+          "family": "Manganaro",
+          "initials": "A",
+          "indexed_name": "Manganaro A"
+        },
+        {
+          "given": "Masaya",
+          "family": "Oshima",
+          "initials": "M",
+          "indexed_name": "Oshima M"
+        },
+        {
+          "given": "Hanqing",
+          "family": "Liao",
+          "initials": "H",
+          "indexed_name": "Liao H"
+        },
+        {
+          "given": "Robert",
+          "family": "Parker",
+          "initials": "R",
+          "indexed_name": "Parker R"
+        },
+        {
+          "given": "Annalisa",
+          "family": "Nicastri",
+          "initials": "A",
+          "indexed_name": "Nicastri A"
+        },
+        {
+          "given": "Barbara",
+          "family": "Brandao",
+          "initials": "B",
+          "indexed_name": "Brandao B"
+        },
+        {
+          "given": "Maikel L",
+          "family": "Colli",
+          "initials": "ML",
+          "indexed_name": "Colli ML"
+        },
+        {
+          "given": "Decio L",
+          "family": "Eizirik",
+          "initials": "DL",
+          "indexed_name": "Eizirik DL"
+        },
+        {
+          "given": "Jahnavi",
+          "family": "Aluri",
+          "initials": "J",
+          "indexed_name": "Aluri J"
+        },
+        {
+          "given": "Deep",
+          "family": "Patel",
+          "initials": "D",
+          "indexed_name": "Patel D"
+        },
+        {
+          "given": "Marcus",
+          "family": "Göransson",
+          "initials": "M",
+          "indexed_name": "Göransson M"
+        },
+        {
+          "given": "Orlando",
+          "family": "Burgos Morales",
+          "initials": "O",
+          "indexed_name": "Burgos Morales O"
+        },
+        {
+          "given": "Amanda",
+          "family": "Anderson",
+          "initials": "A",
+          "indexed_name": "Anderson A"
+        },
+        {
+          "given": "Laurie",
+          "family": "Landry",
+          "initials": "L",
+          "indexed_name": "Landry L"
+        },
+        {
+          "given": "Farah",
+          "family": "Kobaisi",
+          "initials": "F",
+          "indexed_name": "Kobaisi F"
+        },
+        {
+          "given": "Raphael",
+          "family": "Scharfmann",
+          "initials": "R",
+          "indexed_name": "Scharfmann R"
+        },
+        {
+          "given": "Lorella",
+          "family": "Marselli",
+          "initials": "L",
+          "indexed_name": "Marselli L"
+        },
+        {
+          "given": "Piero",
+          "family": "Marchetti",
+          "initials": "P",
+          "indexed_name": "Marchetti P"
+        },
+        {
+          "given": "Sylvaine",
+          "family": "You",
+          "initials": "S",
+          "indexed_name": "You S"
+        },
+        {
+          "given": "Maki",
+          "family": "Nakayama",
+          "initials": "M",
+          "indexed_name": "Nakayama M"
+        },
+        {
+          "given": "Sine R",
+          "family": "Hadrup",
+          "initials": "SR",
+          "indexed_name": "Hadrup SR"
+        },
+        {
+          "given": "Sally C",
+          "family": "Kent",
+          "initials": "SC",
+          "indexed_name": "Kent SC"
+        },
+        {
+          "given": "Sarah J",
+          "family": "Richardson",
+          "initials": "SJ",
+          "indexed_name": "Richardson SJ"
+        },
+        {
+          "given": "Nicola",
+          "family": "Ternette",
+          "initials": "N",
+          "indexed_name": "Ternette N"
+        },
+        {
+          "given": "Roberto",
+          "family": "Mallone",
+          "initials": "R",
+          "indexed_name": "Mallone R"
+        }
+      ],
+      "journal": "Nature communications",
+      "journal_abbreviation": "Nat Commun",
+      "year": 2025,
+      "volume": "16",
+      "issue": "1",
+      "pages_or_article_number": "765",
+      "doi": "10.1038/s41467-025-55908-9",
+      "pmid": "39824805",
+      "pmcid": "PMC11748642",
+      "first_publication_date": "2025-01-17",
+      "electronic_publication_date": "2025-01-17",
+      "journal_publication_date": "2025 Jan",
+      "url": "https://doi.org/10.1038/s41467-025-55908-9",
+      "verification_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1038%2Fs41467-025-55908-9%22&format=json&resultType=core",
+      "verified_utc": "2026-09-15T21:09:45.619938+00:00",
+      "publisher_or_primary_source_url": "https://www.nature.com/articles/s41467-025-55908-9",
+      "recommended_citation_year": 2025
+    },
+    {
+      "id": "whalley2020",
+      "verified": true,
+      "title": "GPU-Accelerated Discovery of Pathogen-Derived Molecular Mimics of a T-Cell Insulin Epitope.",
+      "authors": [
+        {
+          "given": "Thomas",
+          "family": "Whalley",
+          "initials": "T",
+          "indexed_name": "Whalley T"
+        },
+        {
+          "given": "Garry",
+          "family": "Dolton",
+          "initials": "G",
+          "indexed_name": "Dolton G"
+        },
+        {
+          "given": "Paul E",
+          "family": "Brown",
+          "initials": "PE",
+          "indexed_name": "Brown PE"
+        },
+        {
+          "given": "Aaron",
+          "family": "Wall",
+          "initials": "A",
+          "indexed_name": "Wall A"
+        },
+        {
+          "given": "Linda",
+          "family": "Wooldridge",
+          "initials": "L",
+          "indexed_name": "Wooldridge L"
+        },
+        {
+          "given": "Hugo",
+          "family": "van den Berg",
+          "initials": "H",
+          "indexed_name": "van den Berg H"
+        },
+        {
+          "given": "Anna",
+          "family": "Fuller",
+          "initials": "A",
+          "indexed_name": "Fuller A"
+        },
+        {
+          "given": "Jade R",
+          "family": "Hopkins",
+          "initials": "JR",
+          "indexed_name": "Hopkins JR"
+        },
+        {
+          "given": "Michael D",
+          "family": "Crowther",
+          "initials": "MD",
+          "indexed_name": "Crowther MD"
+        },
+        {
+          "given": "Meriem",
+          "family": "Attaf",
+          "initials": "M",
+          "indexed_name": "Attaf M"
+        },
+        {
+          "given": "Robin R",
+          "family": "Knight",
+          "initials": "RR",
+          "indexed_name": "Knight RR"
+        },
+        {
+          "given": "David K",
+          "family": "Cole",
+          "initials": "DK",
+          "indexed_name": "Cole DK"
+        },
+        {
+          "given": "Mark",
+          "family": "Peakman",
+          "initials": "M",
+          "indexed_name": "Peakman M"
+        },
+        {
+          "given": "Andrew K",
+          "family": "Sewell",
+          "initials": "AK",
+          "indexed_name": "Sewell AK"
+        },
+        {
+          "given": "Barbara",
+          "family": "Szomolay",
+          "initials": "B",
+          "indexed_name": "Szomolay B"
+        }
+      ],
+      "journal": "Frontiers in immunology",
+      "journal_abbreviation": "Front Immunol",
+      "year": 2020,
+      "volume": "11",
+      "issue": null,
+      "pages_or_article_number": "296",
+      "doi": "10.3389/fimmu.2020.00296",
+      "pmid": "32184781",
+      "pmcid": "PMC7058665",
+      "first_publication_date": "2020-02-28",
+      "electronic_publication_date": "2020-02-28",
+      "journal_publication_date": "2020 ",
+      "url": "https://doi.org/10.3389/fimmu.2020.00296",
+      "verification_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.3389%2Ffimmu.2020.00296%22&format=json&resultType=core",
+      "verified_utc": "2026-09-15T21:09:45.619952+00:00",
+      "publisher_or_primary_source_url": "https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2020.00296/full",
+      "recommended_citation_year": 2020
+    },
+    {
+      "id": "schlosser2007",
+      "verified": true,
+      "title": "A novel cytosolic class I antigen-processing pathway for endoplasmic-reticulum-targeted proteins.",
+      "authors": [
+        {
+          "given": "Eva",
+          "family": "Schlosser",
+          "initials": "E",
+          "indexed_name": "Schlosser E"
+        },
+        {
+          "given": "Carolina",
+          "family": "Otero",
+          "initials": "C",
+          "indexed_name": "Otero C"
+        },
+        {
+          "given": "Christine",
+          "family": "Wuensch",
+          "initials": "C",
+          "indexed_name": "Wuensch C"
+        },
+        {
+          "given": "Benedikt",
+          "family": "Kessler",
+          "initials": "B",
+          "indexed_name": "Kessler B"
+        },
+        {
+          "given": "Mariola",
+          "family": "Edelmann",
+          "initials": "M",
+          "indexed_name": "Edelmann M"
+        },
+        {
+          "given": "René",
+          "family": "Brunisholz",
+          "initials": "R",
+          "indexed_name": "Brunisholz R"
+        },
+        {
+          "given": "Ingo",
+          "family": "Drexler",
+          "initials": "I",
+          "indexed_name": "Drexler I"
+        },
+        {
+          "given": "Daniel F",
+          "family": "Legler",
+          "initials": "DF",
+          "indexed_name": "Legler DF"
+        },
+        {
+          "given": "Marcus",
+          "family": "Groettrup",
+          "initials": "M",
+          "indexed_name": "Groettrup M"
+        }
+      ],
+      "journal": "EMBO reports",
+      "journal_abbreviation": "EMBO Rep",
+      "year": 2007,
+      "volume": "8",
+      "issue": "10",
+      "pages_or_article_number": "945-951",
+      "doi": "10.1038/sj.embor.7401065",
+      "pmid": "17853904",
+      "pmcid": "PMC2002554",
+      "first_publication_date": "2007-09-14",
+      "electronic_publication_date": "2007-09-14",
+      "journal_publication_date": "2007 Oct",
+      "url": "https://doi.org/10.1038/sj.embor.7401065",
+      "verification_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1038%2Fsj.embor.7401065%22&format=json&resultType=core",
+      "verified_utc": "2026-09-15T21:09:45.619969+00:00",
+      "publisher_or_primary_source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2002554/",
+      "recommended_citation_year": 2007
+    },
+    {
+      "id": "reynisson2020",
+      "verified": true,
+      "title": "NetMHCpan-4.1 and NetMHCIIpan-4.0: improved predictions of MHC antigen presentation by concurrent motif deconvolution and integration of MS MHC eluted ligand data.",
+      "authors": [
+        {
+          "given": "Birkir",
+          "family": "Reynisson",
+          "initials": "B",
+          "indexed_name": "Reynisson B"
+        },
+        {
+          "given": "Bruno",
+          "family": "Alvarez",
+          "initials": "B",
+          "indexed_name": "Alvarez B"
+        },
+        {
+          "given": "Sinu",
+          "family": "Paul",
+          "initials": "S",
+          "indexed_name": "Paul S"
+        },
+        {
+          "given": "Bjoern",
+          "family": "Peters",
+          "initials": "B",
+          "indexed_name": "Peters B"
+        },
+        {
+          "given": "Morten",
+          "family": "Nielsen",
+          "initials": "M",
+          "indexed_name": "Nielsen M"
+        }
+      ],
+      "journal": "Nucleic acids research",
+      "journal_abbreviation": "Nucleic Acids Res",
+      "year": 2020,
+      "volume": "48",
+      "issue": "W1",
+      "pages_or_article_number": "W449-W454",
+      "doi": "10.1093/nar/gkaa379",
+      "pmid": "32406916",
+      "pmcid": "PMC7319546",
+      "first_publication_date": "2020-07-01",
+      "electronic_publication_date": null,
+      "journal_publication_date": "2020 Jul",
+      "url": "https://doi.org/10.1093/nar/gkaa379",
+      "verification_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1093%2Fnar%2Fgkaa379%22&format=json&resultType=core",
+      "verified_utc": "2026-09-15T21:09:45.619981+00:00",
+      "publisher_or_primary_source_url": "https://academic.oup.com/nar/article/48/W1/W449/5837056",
+      "recommended_citation_year": 2020,
+      "bibliographic_note": "Publisher paper first published online14May2020; Europe PMC firstPublicationDate field uses2020-07-01. Volume48(W1),W449-W454 verified."
+    },
+    {
+      "id": "odonnell2020",
+      "verified": true,
+      "title": "MHCflurry 2.0: Improved Pan-Allele Prediction of MHC Class I-Presented Peptides by Incorporating Antigen Processing.",
+      "authors": [
+        {
+          "given": "Timothy J",
+          "family": "O'Donnell",
+          "initials": "TJ",
+          "indexed_name": "O'Donnell TJ"
+        },
+        {
+          "given": "Alex",
+          "family": "Rubinsteyn",
+          "initials": "A",
+          "indexed_name": "Rubinsteyn A"
+        },
+        {
+          "given": "Uri",
+          "family": "Laserson",
+          "initials": "U",
+          "indexed_name": "Laserson U"
+        }
+      ],
+      "journal": "Cell systems",
+      "journal_abbreviation": "Cell Syst",
+      "year": 2020,
+      "volume": "11",
+      "issue": "1",
+      "pages_or_article_number": "42-48.e7",
+      "doi": "10.1016/j.cels.2020.06.010",
+      "pmid": "32711842",
+      "pmcid": null,
+      "first_publication_date": "2020-07-14",
+      "electronic_publication_date": "2020-07-14",
+      "journal_publication_date": "2020 Jul",
+      "url": "https://doi.org/10.1016/j.cels.2020.06.010",
+      "verification_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1016%2Fj.cels.2020.06.010%22&format=json&resultType=core",
+      "verified_utc": "2026-09-15T21:09:45.619992+00:00",
+      "publisher_or_primary_source_url": "https://pubmed.ncbi.nlm.nih.gov/32711842/",
+      "recommended_citation_year": 2020
+    },
+    {
+      "id": "teufel2022",
+      "verified": true,
+      "title": "SignalP 6.0 predicts all five types of signal peptides using protein language models.",
+      "authors": [
+        {
+          "given": "Felix",
+          "family": "Teufel",
+          "initials": "F",
+          "indexed_name": "Teufel F"
+        },
+        {
+          "given": "José Juan",
+          "family": "Almagro Armenteros",
+          "initials": "JJ",
+          "indexed_name": "Almagro Armenteros JJ"
+        },
+        {
+          "given": "Alexander Rosenberg",
+          "family": "Johansen",
+          "initials": "AR",
+          "indexed_name": "Johansen AR"
+        },
+        {
+          "given": "Magnús Halldór",
+          "family": "Gíslason",
+          "initials": "MH",
+          "indexed_name": "Gíslason MH"
+        },
+        {
+          "given": "Silas Irby",
+          "family": "Pihl",
+          "initials": "SI",
+          "indexed_name": "Pihl SI"
+        },
+        {
+          "given": "Konstantinos D",
+          "family": "Tsirigos",
+          "initials": "KD",
+          "indexed_name": "Tsirigos KD"
+        },
+        {
+          "given": "Ole",
+          "family": "Winther",
+          "initials": "O",
+          "indexed_name": "Winther O"
+        },
+        {
+          "given": "Søren",
+          "family": "Brunak",
+          "initials": "S",
+          "indexed_name": "Brunak S"
+        },
+        {
+          "given": "Gunnar",
+          "family": "von Heijne",
+          "initials": "G",
+          "indexed_name": "von Heijne G"
+        },
+        {
+          "given": "Henrik",
+          "family": "Nielsen",
+          "initials": "H",
+          "indexed_name": "Nielsen H"
+        }
+      ],
+      "journal": "Nature biotechnology",
+      "journal_abbreviation": "Nat Biotechnol",
+      "year": 2022,
+      "volume": "40",
+      "issue": "7",
+      "pages_or_article_number": "1023-1025",
+      "doi": "10.1038/s41587-021-01156-3",
+      "pmid": "34980915",
+      "pmcid": "PMC9287161",
+      "first_publication_date": "2022-01-03",
+      "electronic_publication_date": "2022-01-03",
+      "journal_publication_date": "2022 Jul",
+      "url": "https://doi.org/10.1038/s41587-021-01156-3",
+      "verification_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1038%2Fs41587-021-01156-3%22&format=json&resultType=core",
+      "verified_utc": "2026-09-15T21:09:45.620003+00:00",
+      "publisher_or_primary_source_url": "https://www.nature.com/articles/s41587-021-01156-3",
+      "recommended_citation_year": 2022
+    },
+    {
+      "id": "uniprot2025",
+      "verified": true,
+      "title": "UniProt: the Universal Protein Knowledgebase in 2025.",
+      "authors": [
+        {
+          "collective": "UniProt Consortium"
+        }
+      ],
+      "journal": "Nucleic acids research",
+      "journal_abbreviation": "Nucleic Acids Res",
+      "year": 2025,
+      "volume": "53",
+      "issue": "D1",
+      "pages_or_article_number": "D609-D617",
+      "doi": "10.1093/nar/gkae1010",
+      "pmid": "39552041",
+      "pmcid": "PMC11701636",
+      "first_publication_date": "2025-01-01",
+      "electronic_publication_date": null,
+      "journal_publication_date": "2025 Jan",
+      "url": "https://doi.org/10.1093/nar/gkae1010",
+      "verification_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1093%2Fnar%2Fgkae1010%22&format=json&resultType=core",
+      "verified_utc": "2026-09-15T21:09:45.620014+00:00",
+      "publisher_or_primary_source_url": "https://academic.oup.com/nar/article/53/D1/D609/7902999",
+      "recommended_citation_year": 2025,
+      "bibliographic_note": "Final journal volume53 is2025; reference-proteome data used in this study are separately versioned2026_03."
+    },
+    {
+      "id": "iedb2025",
+      "verified": true,
+      "title": "The Immune Epitope Database (IEDB): 2024 update.",
+      "authors": [
+        {
+          "given": "Randi",
+          "family": "Vita",
+          "initials": "R",
+          "indexed_name": "Vita R"
+        },
+        {
+          "given": "Nina",
+          "family": "Blazeska",
+          "initials": "N",
+          "indexed_name": "Blazeska N"
+        },
+        {
+          "given": "Daniel",
+          "family": "Marrama",
+          "initials": "D",
+          "indexed_name": "Marrama D"
+        },
+        {
+          "collective": "IEDB Curation Team Members"
+        },
+        {
+          "given": "Sebastian",
+          "family": "Duesing",
+          "initials": "S",
+          "indexed_name": "Duesing S"
+        },
+        {
+          "given": "Jason",
+          "family": "Bennett",
+          "initials": "J",
+          "indexed_name": "Bennett J"
+        },
+        {
+          "given": "Jason",
+          "family": "Greenbaum",
+          "initials": "J",
+          "indexed_name": "Greenbaum J"
+        },
+        {
+          "given": "Marcus",
+          "family": "De Almeida Mendes",
+          "initials": "M",
+          "indexed_name": "De Almeida Mendes M"
+        },
+        {
+          "given": "Jarjapu",
+          "family": "Mahita",
+          "initials": "J",
+          "indexed_name": "Mahita J"
+        },
+        {
+          "given": "Daniel K",
+          "family": "Wheeler",
+          "initials": "DK",
+          "indexed_name": "Wheeler DK"
+        },
+        {
+          "given": "Jason R",
+          "family": "Cantrell",
+          "initials": "JR",
+          "indexed_name": "Cantrell JR"
+        },
+        {
+          "given": "James A",
+          "family": "Overton",
+          "initials": "JA",
+          "indexed_name": "Overton JA"
+        },
+        {
+          "given": "Darren A",
+          "family": "Natale",
+          "initials": "DA",
+          "indexed_name": "Natale DA"
+        },
+        {
+          "given": "Alessandro",
+          "family": "Sette",
+          "initials": "A",
+          "indexed_name": "Sette A"
+        },
+        {
+          "given": "Bjoern",
+          "family": "Peters",
+          "initials": "B",
+          "indexed_name": "Peters B"
+        }
+      ],
+      "journal": "Nucleic acids research",
+      "journal_abbreviation": "Nucleic Acids Res",
+      "year": 2025,
+      "volume": "53",
+      "issue": "D1",
+      "pages_or_article_number": "D436-D443",
+      "doi": "10.1093/nar/gkae1092",
+      "pmid": "39558162",
+      "pmcid": "PMC11701597",
+      "first_publication_date": "2025-01-01",
+      "electronic_publication_date": null,
+      "journal_publication_date": "2025 Jan",
+      "url": "https://doi.org/10.1093/nar/gkae1092",
+      "verification_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1093%2Fnar%2Fgkae1092%22&format=json&resultType=core",
+      "verified_utc": "2026-09-15T21:09:45.620024+00:00",
+      "publisher_or_primary_source_url": "https://academic.oup.com/nar/article/53/D1/D436/7903371",
+      "recommended_citation_year": 2025,
+      "bibliographic_note": "Title says2024 update; cite2025 for final journal volume53. Publisher online date18November2024."
+    },
+    {
+      "id": "iedbtools2024",
+      "verified": true,
+      "title": "Next-generation IEDB tools: a platform for epitope prediction and analysis.",
+      "authors": [
+        {
+          "given": "Zhen",
+          "family": "Yan",
+          "initials": "Z",
+          "indexed_name": "Yan Z"
+        },
+        {
+          "given": "Kevin",
+          "family": "Kim",
+          "initials": "K",
+          "indexed_name": "Kim K"
+        },
+        {
+          "given": "Haeuk",
+          "family": "Kim",
+          "initials": "H",
+          "indexed_name": "Kim H"
+        },
+        {
+          "given": "Brendan",
+          "family": "Ha",
+          "initials": "B",
+          "indexed_name": "Ha B"
+        },
+        {
+          "given": "Anaïs",
+          "family": "Gambiez",
+          "initials": "A",
+          "indexed_name": "Gambiez A"
+        },
+        {
+          "given": "Jason",
+          "family": "Bennett",
+          "initials": "J",
+          "indexed_name": "Bennett J"
+        },
+        {
+          "given": "Marcus Fabiano",
+          "family": "de Almeida Mendes",
+          "initials": "MF",
+          "indexed_name": "de Almeida Mendes MF"
+        },
+        {
+          "given": "Raphael",
+          "family": "Trevizani",
+          "initials": "R",
+          "indexed_name": "Trevizani R"
+        },
+        {
+          "given": "Jarjapu",
+          "family": "Mahita",
+          "initials": "J",
+          "indexed_name": "Mahita J"
+        },
+        {
+          "given": "Eve",
+          "family": "Richardson",
+          "initials": "E",
+          "indexed_name": "Richardson E"
+        },
+        {
+          "given": "Daniel",
+          "family": "Marrama",
+          "initials": "D",
+          "indexed_name": "Marrama D"
+        },
+        {
+          "given": "Nina",
+          "family": "Blazeska",
+          "initials": "N",
+          "indexed_name": "Blazeska N"
+        },
+        {
+          "given": "Zeynep",
+          "family": "Koşaloğlu-Yalçın",
+          "initials": "Z",
+          "indexed_name": "Koşaloğlu-Yalçın Z"
+        },
+        {
+          "given": "Morten",
+          "family": "Nielsen",
+          "initials": "M",
+          "indexed_name": "Nielsen M"
+        },
+        {
+          "given": "Alessandro",
+          "family": "Sette",
+          "initials": "A",
+          "indexed_name": "Sette A"
+        },
+        {
+          "given": "Bjoern",
+          "family": "Peters",
+          "initials": "B",
+          "indexed_name": "Peters B"
+        },
+        {
+          "given": "Jason A",
+          "family": "Greenbaum",
+          "initials": "JA",
+          "indexed_name": "Greenbaum JA"
+        }
+      ],
+      "journal": "Nucleic acids research",
+      "journal_abbreviation": "Nucleic Acids Res",
+      "year": 2024,
+      "volume": "52",
+      "issue": "W1",
+      "pages_or_article_number": "W526-W532",
+      "doi": "10.1093/nar/gkae407",
+      "pmid": "38783079",
+      "pmcid": "PMC11223806",
+      "first_publication_date": "2024-07-01",
+      "electronic_publication_date": null,
+      "journal_publication_date": "2024 Jul",
+      "url": "https://doi.org/10.1093/nar/gkae407",
+      "verification_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1093%2Fnar%2Fgkae407%22&format=json&resultType=core",
+      "verified_utc": "2026-09-15T21:09:45.620035+00:00",
+      "publisher_or_primary_source_url": "https://academic.oup.com/nar/article/52/W1/W526/7680622",
+      "recommended_citation_year": 2024
+    }
+  ],
+  "scope": "Bibliographic metadata independently retrieved from official Europe PMC for cited primary papers and database/software papers; article titles/DOIs cross-checked through publisher or PubMed pages where available.",
+  "resources": [
+    {
+      "id": "uniprot_human_reference_2026_03",
+      "type": "dataset",
+      "author": "UniProt Consortium",
+      "title": "Homo sapiens reference proteome UP000005640 with additional sequences",
+      "version": "2026_03",
+      "accessed": "2026-09-15",
+      "url": "https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/reference_proteomes/Eukaryota/UP000005640/",
+      "doi": null,
+      "files": [
+        "UP000005640_9606.fasta.gz",
+        "UP000005640_9606_additional.fasta.gz"
+      ],
+      "verification": "Local proteome_exact_matches.json:169634records; both publishedMD5values verified."
+    },
+    {
+      "id": "iedb_tools_api",
+      "type": "software_service",
+      "author": "Immune Epitope Database Analysis Resource",
+      "title": "IEDB Analysis Resource RESTful tools API",
+      "url": "https://tools.iedb.org/main/tools-api/",
+      "versions": [
+        "netmhcpan_ba-4.1",
+        "netmhcpan_el-4.1"
+      ],
+      "accessed": "2026-09-15",
+      "doi": null
+    },
+    {
+      "id": "iedb_query_api",
+      "type": "data_service",
+      "author": "Immune Epitope Database",
+      "title": "IEDB query API",
+      "url": "https://query-api.iedb.org/",
+      "accessed": "2026-09-15",
+      "doi": null,
+      "note": "Query endpoint and exact payload are archived separately; a negative exact query is database-specific."
+    },
+    {
+      "id": "mhcflurry_code_models",
+      "type": "software",
+      "authors": "MHCflurry contributors",
+      "title": "MHCflurry code and class I presentation models",
+      "url": "https://github.com/openvax/mhcflurry",
+      "code_version": "2.2.1",
+      "model_release_directory": "2.2.0",
+      "presentation_weights": "20200611",
+      "accessed": "2026-09-15",
+      "doi": null,
+      "method_reference": "odonnell2020"
+    },
+    {
+      "id": "canonical_uniprot_sequences",
+      "type": "protein_sequence_records",
+      "author": "UniProt Consortium",
+      "accessions": [
+        "P01308",
+        "P10645"
+      ],
+      "urls": [
+        "https://www.uniprot.org/uniprotkb/P01308/entry",
+        "https://www.uniprot.org/uniprotkb/P10645/entry"
+      ],
+      "accessed": "2026-09-15",
+      "doi": null,
+      "note": "The chimeric precursor is an explicitly inferred concatenation of CHGA1-18 and INS25-110, not a deposited experimental construct."
+    }
+  ],
+  "verification_note": "All11journal records resolved by exact DOI in official Europe PMC core metadata. Primary publisher/PubMed pages were additionally reviewed. No author identities, affiliations, funding or conflicts are inferred for the new manuscript."
+}

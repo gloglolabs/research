@@ -1,0 +1,23 @@
+{
+  "jobid": "6AA8F6D90018C71DEF842449",
+  "submitted_via": "Official SignalP6.0 web form through browser UI",
+  "mode": "fast",
+  "organism": "eukarya",
+  "output": "short",
+  "retrieved_utc": "2026-09-15T07:45:05.266438+00:00",
+  "files": {
+    "output.json": {
+      "url": "https://services.healthtech.dtu.dk/services/SignalP-6.0/tmp/6AA8F6D90018C71DEF842449/output.json",
+      "sha256": "273b56a14ea5cadada9e95546ab749e64358dd50dd2430de1c2857536994750c"
+    },
+    "prediction_results.txt": {
+      "url": "https://services.healthtech.dtu.dk/services/SignalP-6.0/tmp/6AA8F6D90018C71DEF842449/prediction_results.txt",
+      "sha256": "ddfce84a015d97491527144298418f0e7596a0fbefdc73dd4106a86e630d540d"
+    },
+    "processed_entries.fasta": {
+      "url": "https://services.healthtech.dtu.dk/services/SignalP-6.0/tmp/6AA8F6D90018C71DEF842449/processed_entries.fasta",
+      "sha256": "b1e839abc59adff4a7c2a10087c7806e0752e020b630ee1dfdc651c9d788650c"
+    }
+  },
+  "input_sha256": "5611584a51dbb5bceef797bab3f8358d21e7f3b88c0367df1296182411e904e2"
+}

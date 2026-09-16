@@ -1,0 +1,17 @@
+variant,context,improved,unchanged,worsened
+L9C_T17C,with_flanks,16,26,0
+L9C_T17C,without_flanks,15,27,0
+L9C_T17G,with_flanks,16,26,0
+L9C_T17G,without_flanks,14,27,1
+L9C_T17D,with_flanks,16,23,3
+L9C_T17D,without_flanks,14,25,3
+L9C_T17P,with_flanks,16,23,3
+L9C_T17P,without_flanks,14,26,2
+L9G_T17C,with_flanks,16,25,1
+L9G_T17C,without_flanks,15,27,0
+L9G_T17G,with_flanks,16,25,1
+L9G_T17G,without_flanks,13,28,1
+L9G_T17D,with_flanks,16,21,5
+L9G_T17D,without_flanks,14,25,3
+L9G_T17P,with_flanks,15,23,4
+L9G_T17P,without_flanks,13,27,2

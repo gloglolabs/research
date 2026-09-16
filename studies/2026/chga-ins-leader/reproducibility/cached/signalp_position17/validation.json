@@ -1,0 +1,111 @@
+{
+  "predicted_mature_products": 21,
+  "all_predicted_mature_sequences_equal_INS25_110": true,
+  "predictions": [
+    {
+      "id": "WT_INS",
+      "cleavage_after": 24,
+      "cleavage_probability": 0.972158
+    },
+    {
+      "id": "CHGA_T17A",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.979978
+    },
+    {
+      "id": "CHGA_T17C",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.980329
+    },
+    {
+      "id": "CHGA_T17D",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.980673
+    },
+    {
+      "id": "CHGA_T17E",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.980426
+    },
+    {
+      "id": "CHGA_T17F",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.980486
+    },
+    {
+      "id": "CHGA_T17G",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.979723
+    },
+    {
+      "id": "CHGA_T17H",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.980262
+    },
+    {
+      "id": "CHGA_T17I",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.979215
+    },
+    {
+      "id": "CHGA_T17K",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.978506
+    },
+    {
+      "id": "CHGA_T17L",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.979484
+    },
+    {
+      "id": "CHGA_T17M",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.979395
+    },
+    {
+      "id": "CHGA_T17N",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.979776
+    },
+    {
+      "id": "CHGA_T17P",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.978894
+    },
+    {
+      "id": "CHGA_T17Q",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.980105
+    },
+    {
+      "id": "CHGA_T17R",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.977707
+    },
+    {
+      "id": "CHGA_T17S",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.980284
+    },
+    {
+      "id": "CHGA_T17T",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.979933
+    },
+    {
+      "id": "CHGA_T17V",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.979552
+    },
+    {
+      "id": "CHGA_T17W",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.980202
+    },
+    {
+      "id": "CHGA_T17Y",
+      "cleavage_after": 18,
+      "cleavage_probability": 0.980651
+    }
+  ]
+}

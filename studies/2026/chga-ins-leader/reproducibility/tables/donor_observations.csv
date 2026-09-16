@@ -1,0 +1,10 @@
+excel_row,protein,gene,peptide,length,ion_intensity,donor,predicted_hla_as_published,start,end,footprint,sequence_in_canonical_CHGA1_18_INS25_110,S4_exact_blank_intensity,same_donor_blank_overlap_at_least_6aa
+542,Chromogranin-A OS=Homo sapiens OX=9606 GN=CHGA PE=1 SV=7,CHGA,FRGPGPQL,8,466708,HP 20289,HLA-C07:01,383,390,downstream_CHGA,False,0,
+543,Chromogranin-A OS=Homo sapiens OX=9606 GN=CHGA PE=1 SV=7,CHGA,RSAAVLALL,9,8027150,HP 20289,"HLA-A02:05, HLA-C12:02",2,10,inside_native_CHGA_signal,True,0,
+544,Chromogranin-A OS=Homo sapiens OX=9606 GN=CHGA PE=1 SV=7,CHGA,YGFRGPGPQL,10,1263360,HP 20289,"HLA-B52:01, HLA-C07:01, HLA-C12:02",381,390,downstream_CHGA,False,0,
+1592,Insulin OS=Homo sapiens OX=9606 GN=INS PE=1 SV=1,INS,HLVEALYLV,9,13778240,HP 20289,HLA-A02:05,34,42,downstream_INS_retained_sequence,True,0,
+1593,Insulin OS=Homo sapiens OX=9606 GN=INS PE=1 SV=1,INS,AAAFVNQHL,9,2320430,HP 20289,"HLA-A02:05, HLA-B52:01, HLA-C07:01, HLA-C12:02",22,30,crosses_native_INS_signal_boundary,False,0,
+1594,Insulin OS=Homo sapiens OX=9606 GN=INS PE=1 SV=1,INS,HLVEALYLV,9,302525,HP18101,HLA-A24:02,34,42,downstream_INS_retained_sequence,True,,
+1595,Insulin OS=Homo sapiens OX=9606 GN=INS PE=1 SV=1,INS,ALWGPDPAAA,10,4534300,R361,HLA-A*02:01,15,24,inside_native_INS_signal,False,1931200,ALWGPDPAAA
+1596,Insulin OS=Homo sapiens OX=9606 GN=INS PE=1 SV=1,INS,GSHLVEALY,9,5452640,R361,"HLA-B35:01, HLA-A*31:01",32,40,downstream_INS_retained_sequence,True,0,
+1597,Insulin OS=Homo sapiens OX=9606 GN=INS PE=1 SV=1,INS,ALWGPDPAAA,10,271659000,R369,HLA-A*02:01,15,24,inside_native_INS_signal,False,0,

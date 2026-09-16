@@ -1,0 +1,23 @@
+{
+  "job_id": "6AA8FA510018DA41DA844A95",
+  "method": "SignalP6.0",
+  "mode": "fast",
+  "organism": "eukarya",
+  "submission": "Observed official browser form, short output",
+  "retrieved_utc": "2026-09-15T08:01:55.257643+00:00",
+  "input_sha256": "2fbf44b0ab89f566eb6efee1c2c024cc9a807924d76a7044ccdec6b00db70244",
+  "files": {
+    "output.json": {
+      "url": "https://services.healthtech.dtu.dk/services/SignalP-6.0/tmp/6AA8FA510018DA41DA844A95/output.json",
+      "sha256": "fffc2947440f45a397cb1e4b19612cab5f7ee5985ca78d5fb3a1ab193c9c6c68"
+    },
+    "prediction_results.txt": {
+      "url": "https://services.healthtech.dtu.dk/services/SignalP-6.0/tmp/6AA8FA510018DA41DA844A95/prediction_results.txt",
+      "sha256": "733cc54c21f3d649b15ae0a4f0ada63f300a9b628b2c6efd987b93f7e3e5177d"
+    },
+    "processed_entries.fasta": {
+      "url": "https://services.healthtech.dtu.dk/services/SignalP-6.0/tmp/6AA8FA510018DA41DA844A95/processed_entries.fasta",
+      "sha256": "204eca840ef292e749e58bb8d8def48da056562535e839bff59c80dfd5107021"
+    }
+  }
+}

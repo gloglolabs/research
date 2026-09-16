@@ -1,0 +1,17 @@
+[
+  {
+    "research_path": "data/uniprot_P01308.json",
+    "figure_input_path": "source_inputs/uniprot_P01308.json",
+    "source_sha256": "d00cfdd69dc6f7e95599a9bb73aaa8a81e07d1045800fbad0c68a3f5ebf111f6"
+  },
+  {
+    "research_path": "data/uniprot_P10645.json",
+    "figure_input_path": "source_inputs/uniprot_P10645.json",
+    "source_sha256": "84cab1e3eaf4b7d3d5b13a36d8aa2f433e5fec991fe55ceb1d6b5cd63d0c662b"
+  },
+  {
+    "research_path": "novel/predictions/mhcflurry_leader_doubles_full/summary_counts.csv",
+    "figure_input_path": "source_inputs/double_summary_reference.csv",
+    "source_sha256": "cd37772c6db449648bf5665a0ad0228c16584f0311bafa49c9a7b7dc6c1ce20c"
+  }
+]

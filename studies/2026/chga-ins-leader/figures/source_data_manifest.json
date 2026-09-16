@@ -1,0 +1,81 @@
+{
+  "scope": "Original plots of cached predictions and public donor observations; no simulated data or new model runs",
+  "source_files": [
+    {
+      "path": "data/uniprot_P01308.json",
+      "sha256": "d00cfdd69dc6f7e95599a9bb73aaa8a81e07d1045800fbad0c68a3f5ebf111f6"
+    },
+    {
+      "path": "data/uniprot_P10645.json",
+      "sha256": "84cab1e3eaf4b7d3d5b13a36d8aa2f433e5fec991fe55ceb1d6b5cd63d0c662b"
+    },
+    {
+      "path": "novel/junction/variant_manifest.json",
+      "sha256": "4fab6c2064c916520b086933dcc9a406c06da9345cc86f3b11d6d7f97f4d574a"
+    },
+    {
+      "path": "novel/leader_design/double_scan/netmhcpan_ba-4.1.tsv",
+      "sha256": "43f5e50af87454f741b876bb236c1c7f366d2b48c3190af3b17d6f3c11a47827"
+    },
+    {
+      "path": "novel/leader_design/double_scan/netmhcpan_el-4.1.tsv",
+      "sha256": "424ceefd1fde4a1289e9a111bc54c77c12a788e964efdb7541a6a2c71579d1ca"
+    },
+    {
+      "path": "novel/leader_design/double_scan/scan_manifest.json",
+      "sha256": "82032ec38cfb396014734b6c821674299e5ff8f1f451f322ed84c7ac966c0972"
+    },
+    {
+      "path": "novel/leader_design/scan_manifest.json",
+      "sha256": "f6c4e50b7cb391c6b929c99c0584c44942ee0007bf60495475f92690d373ced2"
+    },
+    {
+      "path": "novel/peptidome/annotated_INS_CHGA_mhci.csv",
+      "sha256": "ad96394d7452fd3d2c85458bf11629abbe155c77a16f414213d3998ef3b191a1"
+    },
+    {
+      "path": "novel/peptidome/donor_footprint.csv",
+      "sha256": "83fb6f81ae94e3c4d528cf178c6ec1481cdbde3461db26f6f50948b12b93e7e1"
+    },
+    {
+      "path": "novel/predictions/mhcflurry/with_flanks.csv",
+      "sha256": "fb6d0a17ae95b69f35daa6e33f61e6cfbc3c1ed9aaeab43888e72907abecdeb4"
+    },
+    {
+      "path": "novel/predictions/mhcflurry_leader_doubles_full/summary_counts.csv",
+      "sha256": "cd37772c6db449648bf5665a0ad0228c16584f0311bafa49c9a7b7dc6c1ce20c"
+    },
+    {
+      "path": "novel/predictions/mhcflurry_leader_doubles_full/with_flanks.csv",
+      "sha256": "3ee1c1eeec09f02edda67a1b2b4044341d117f93a51bd92a51929da12fef7e2f"
+    },
+    {
+      "path": "novel/predictions/mhcflurry_leader_doubles_full/without_flanks.csv",
+      "sha256": "64eb71e2494d7fe2b381a9d6c4631f02feccfcb22c1bf1a5096a3fa20fc46bb3"
+    },
+    {
+      "path": "novel/predictions/netmhcpan_ba-4.1.tsv",
+      "sha256": "e927ad0ca1ba946074146510952c835b5984fd0757dce6558e7e219eec6259b1"
+    }
+  ],
+  "validation": {
+    "net_and_mhc_complete_matching_signal_junction_grid": 6552,
+    "all_recomputed_counts_match_saved_reference": true,
+    "donor_observations": 6,
+    "distinct_INS_peptides": 4,
+    "INS_positive_donors": 4,
+    "donors_with_retained_INS": 3,
+    "all_INS_coordinates_match_UniProt": true
+  },
+  "figure_source_csvs": [
+    "figure1_scan_design.csv",
+    "figure1_sequences.csv",
+    "figure2_counts.csv",
+    "figure2_robustness.csv",
+    "figure2_totals.csv",
+    "figure3_donor_projection.csv",
+    "figure4_A02_affinity_tradeoff.csv",
+    "figure4_junction_affinity.csv",
+    "figure4_residual_candidates.csv"
+  ]
+}

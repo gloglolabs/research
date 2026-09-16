@@ -1,0 +1,65 @@
+[
+  {
+    "filename": "NIHMS2107237-supplement-4.xlsx",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12624573/supplementaryFiles",
+    "sha256": "61684beaa28cc625015115145e1e0c5bc8958b857f6f373eebe9d3abb5f209fa",
+    "bytes": 98532,
+    "purpose": "Nanaware2025 TableS4; original workbook omitted",
+    "included": false
+  },
+  {
+    "filename": "NIHMS2107237-supplement-5.xlsx",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12624573/supplementaryFiles",
+    "sha256": "af2d29fd5fe27204dafd625c0db767d9bf30b5909c7f48f662b93b05ea1abcd0",
+    "bytes": 371123,
+    "purpose": "Nanaware2025 TableS5; original workbook omitted",
+    "included": false
+  },
+  {
+    "filename": "41467_2025_55908_MOESM4_ESM.xlsx",
+    "url": "https://static-content.springer-cdn.com/esm/art%3A10.1038%2Fs41467-025-55908-9/MediaObjects/41467_2025_55908_MOESM4_ESM.xlsx",
+    "sha256": "03738572b99302a11ce7a40c350d45f6de3b019ef27b065c92455b1b2fbc7292",
+    "bytes": 85288,
+    "purpose": "Carre2025 conventional-peptide table; original workbook omitted",
+    "included": false
+  },
+  {
+    "filename": "41467_2025_55908_MOESM14_ESM.xlsx",
+    "url": "https://static-content.springer-cdn.com/esm/art%3A10.1038%2Fs41467-025-55908-9/MediaObjects/41467_2025_55908_MOESM14_ESM.xlsx",
+    "sha256": "78aa2c8ed534908be7b30afb5bb4d249caa3b906cdcff6535aac77185349df9c",
+    "bytes": 6105383,
+    "purpose": "Carre2025 SourceData; original workbook omitted",
+    "included": false
+  },
+  {
+    "filename": "UP000005640_9606.fasta.gz",
+    "url": "https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/reference_proteomes/Eukaryota/UP000005640/UP000005640_9606.fasta.gz",
+    "sha256": "3c2e371b769543fac552a5ff0bd9f8a4d8eb136aab53b08e623d1ba417632fbd",
+    "bytes": 47819245,
+    "purpose": "UniProt human reference2026_03 sequence-novelty scan; large resource omitted",
+    "included": false
+  },
+  {
+    "filename": "UP000005640_9606_additional.fasta.gz",
+    "url": "https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/reference_proteomes/Eukaryota/UP000005640/UP000005640_9606_additional.fasta.gz",
+    "sha256": "55a80407a7c76be203c87f72b374daaec045b8ce7b75a74954bbc8d32db0232f",
+    "bytes": 5423103,
+    "purpose": "UniProt human reference2026_03 sequence-novelty scan; large resource omitted",
+    "included": false
+  },
+  {
+    "filename": "RELEASE.metalink",
+    "url": "https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/reference_proteomes/Eukaryota/UP000005640/RELEASE.metalink",
+    "sha256": "838aaaa9eb66100edc2a169d82e0f9a555ae61a3b5a140f29832ae46c7b2fa8c",
+    "bytes": 11465,
+    "purpose": "UniProt human reference2026_03 sequence-novelty scan; large resource omitted",
+    "included": false
+  },
+  {
+    "filename": "models_class1_presentation.20200611.tar.bz2",
+    "url": "https://github.com/openvax/mhcflurry/releases/download/pre-2.0/models_class1_presentation.20200611.tar.bz2",
+    "purpose": "MHCflurry predictor weights; omitted. Per-file hashes in mhcflurry_manifest.json",
+    "included": false,
+    "sha256": null
+  }
+]

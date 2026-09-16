@@ -1,0 +1,35 @@
+{
+  "total_classI_rows": 3766,
+  "total_distinct_peptide_strings_across_donors": 3573,
+  "total_donors": 6,
+  "primary": {
+    "analysis": "authors_curated_S5",
+    "INS_donor_peptide_observations": 6,
+    "INS_distinct_species": 4,
+    "changed_distinct_species": 2,
+    "retained_distinct_species": 2,
+    "INS_positive_donors": 4,
+    "donors_with_retained_INS_species": 3
+  },
+  "raw_background_audit": {
+    "S4_INS_classI_positive_donor_peptide_rows": 131,
+    "S4_INS_classI_positive_distinct_sequences": 103,
+    "S4_INS_length8_13_rows": 28,
+    "S5_curated_INS_rows": 6,
+    "S5_curated_INS_distinct_sequences": 4
+  },
+  "native_INS_signal_range": [1, 24],
+  "canonical_CHGA_signal_range_for_sequence_only_counterfactual": [1, 18],
+  "counterfactual_sequence_is_not_verified_paper_construct": true,
+  "intensity_policy": "Absolute recorded ion intensities archived for traceability. No pooling across donors/instruments, no comparison of different peptide intensities as molecular abundance, and no intensity-based protection estimate.",
+  "provenance": [
+    {
+      "file": "NIHMS2107237-supplement-4.xlsx",
+      "sha256": "61684beaa28cc625015115145e1e0c5bc8958b857f6f373eebe9d3abb5f209fa"
+    },
+    {
+      "file": "NIHMS2107237-supplement-5.xlsx",
+      "sha256": "af2d29fd5fe27204dafd625c0db767d9bf30b5909c7f48f662b93b05ea1abcd0"
+    }
+  ]
+}

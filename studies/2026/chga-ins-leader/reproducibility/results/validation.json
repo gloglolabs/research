@@ -1,0 +1,113 @@
+{
+  "status": "PASS",
+  "checksummed_bundle_files": 105,
+  "runtime": "Python standard library; no network or predictor execution",
+  "staged_nonbaseline_variants": {
+    "leader_positions3_to9": 133,
+    "position17": 19,
+    "selected_doubles": 8
+  },
+  "only_tested_double_no_worse_both_contexts": [
+    "CHGA_L9C_T17C"
+  ],
+  "reference_comparison": {
+    "reference_MHCflurry_sequences": 5,
+    "selected_comparison_rows": 21
+  },
+  "single_scan_validation": {
+    "validated_raw_rows": {
+      "leader_3_9_with_flanks": 67536,
+      "leader_3_9_without_flanks": 67536,
+      "position17_with_flanks": 53480,
+      "position17_without_flanks": 53480
+    },
+    "position17_core_pairs": 266,
+    "position17_core_or_flank_pairs": 546,
+    "only_improving_no_worse_with_flanks": {
+      "position17_containing": [
+        "T17C"
+      ],
+      "position17_core_or_flank": [
+        "T17C"
+      ]
+    },
+    "first_SignalP_batch_identical_mature_products": 21
+  },
+  "final_constructs": 13,
+  "final_prediction_rows": 34762,
+  "NetMHC_rows_final_per_output": 7462,
+  "MHCflurry_rows_final_per_context": 34762,
+  "signal_junction_window_HLA_pairs_per_construct": 504,
+  "flank_affected_pairs_per_construct": 616,
+  "NetMHC_pairs_reused_after_exact_identity": 27300,
+  "L9C_T17C_expanded_criteria": [
+    {
+      "construct": "CHGA_L9C_T17C",
+      "context": "with_flanks",
+      "window_HLA_pairs": 616,
+      "better": 16,
+      "unchanged": 26,
+      "worse": 0
+    },
+    {
+      "construct": "CHGA_L9C_T17C",
+      "context": "without_flanks",
+      "window_HLA_pairs": 616,
+      "better": 15,
+      "unchanged": 27,
+      "worse": 0
+    }
+  ],
+  "full_precursor_window_HLA_pairs_per_construct": 2674,
+  "L9C_T17C_criteria": [
+    {
+      "construct": "CHGA_L9C_T17C",
+      "context": "with_flanks",
+      "better": 16,
+      "unchanged": 26,
+      "worse": 0
+    },
+    {
+      "construct": "CHGA_L9C_T17C",
+      "context": "without_flanks",
+      "better": 15,
+      "unchanged": 27,
+      "worse": 0
+    }
+  ],
+  "new_pairs_crossing_any_specified_cutoff": 0,
+  "donor_projection": {
+    "analysis": "authors_curated_S5",
+    "observations": 6,
+    "distinct_peptides": 4,
+    "INS_positive_donors": 4,
+    "retained_positive_donors": 3,
+    "retained_distinct_peptides": 2
+  },
+  "inflammation_projection": [
+    {
+      "region": "INS boundary overlap",
+      "distinct_peptides": 1,
+      "basal_identified_at_least_2of4": 0,
+      "IFNa_identified_at_least_2of4": 0
+    },
+    {
+      "region": "INS retained 25-110",
+      "distinct_peptides": 25,
+      "basal_identified_at_least_2of4": 8,
+      "IFNa_identified_at_least_2of4": 12
+    },
+    {
+      "region": "INS signal 1-24",
+      "distinct_peptides": 3,
+      "basal_identified_at_least_2of4": 3,
+      "IFNa_identified_at_least_2of4": 1
+    }
+  ],
+  "B10_18_IFNa_fold_main": 11.252809926850855,
+  "B10_18_IFNa_fold_second": 1.4380281782511148,
+  "sequence_novelty_status": "Cached audited result checked; full excluded proteome not rescanned by this command",
+  "source_extraction_status": "Uses attributed target-level workbook excerpts; original workbooks not redistributed",
+  "prediction_status": "Cached outputs, not regenerated neural-network predictions",
+  "all_mature_products_equal_INS25_110": true
+}

@@ -1,0 +1,226 @@
+{
+  "INFO": {
+    "failedjobs": 0,
+    "size": 21
+  },
+  "CSV_FILE": "/services/SignalP-6.0/tmp/6AA8F6D90018C71DEF842449/prediction_results.txt",
+  "MATURE_FILE": "/services/SignalP-6.0/tmp/6AA8F6D90018C71DEF842449/processed_entries.fasta",
+  "GFF_FILE": "/services/SignalP-6.0/tmp/6AA8F6D90018C71DEF842449/output.gff3",
+  "ZIP_FILE": "/services/SignalP-6.0/tmp/6AA8F6D90018C71DEF842449/output_all_results.zip",
+  "SEQUENCES": {
+    "WT_INS": {
+      "Name": "WT_INS",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "/services/SignalP-6.0/tmp/6AA8F6D90018C71DEF842449/output_WT_INS_plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [0.0002, 0.9998],
+      "Protein_types": ["Other", "Signal Peptide (Sec/SPI)"],
+      "CS_pos": "Cleavage site between pos. 24 and 25. Probability 0.972158"
+    },
+    "CHGA_T17A": {
+      "Name": "CHGA_T17A",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "/services/SignalP-6.0/tmp/6AA8F6D90018C71DEF842449/output_CHGA_T17A_plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [0.0002, 0.9998],
+      "Protein_types": ["Other", "Signal Peptide (Sec/SPI)"],
+      "CS_pos": "Cleavage site between pos. 18 and 19. Probability 0.979978"
+    },
+    "CHGA_T17C": {
+      "Name": "CHGA_T17C",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "/services/SignalP-6.0/tmp/6AA8F6D90018C71DEF842449/output_CHGA_T17C_plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [0.0002, 0.9997],
+      "Protein_types": ["Other", "Signal Peptide (Sec/SPI)"],
+      "CS_pos": "Cleavage site between pos. 18 and 19. Probability 0.980329"
+    },
+    "CHGA_T17D": {
+      "Name": "CHGA_T17D",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "/services/SignalP-6.0/tmp/6AA8F6D90018C71DEF842449/output_CHGA_T17D_plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [0.0003, 0.9998],
+      "Protein_types": ["Other", "Signal Peptide (Sec/SPI)"],
+      "CS_pos": "Cleavage site between pos. 18 and 19. Probability 0.980673"
+    },
+    "CHGA_T17E": {
+      "Name": "CHGA_T17E",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "/services/SignalP-6.0/tmp/6AA8F6D90018C71DEF842449/output_CHGA_T17E_plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [0.0003, 0.9997],
+      "Protein_types": ["Other", "Signal Peptide (Sec/SPI)"],
+      "CS_pos": "Cleavage site between pos. 18 and 19. Probability 0.980426"
+    },
+    "CHGA_T17F": {
+      "Name": "CHGA_T17F",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "/services/SignalP-6.0/tmp/6AA8F6D90018C71DEF842449/output_CHGA_T17F_plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [0.0002, 0.9997],
+      "Protein_types": ["Other", "Signal Peptide (Sec/SPI)"],
+      "CS_pos": "Cleavage site between pos. 18 and 19. Probability 0.980486"
+    },
+    "CHGA_T17G": {
+      "Name": "CHGA_T17G",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "/services/SignalP-6.0/tmp/6AA8F6D90018C71DEF842449/output_CHGA_T17G_plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [0.0002, 0.9998],
+      "Protein_types": ["Other", "Signal Peptide (Sec/SPI)"],
+      "CS_pos": "Cleavage site between pos. 18 and 19. Probability 0.979723"
+    },
+    "CHGA_T17H": {
+      "Name": "CHGA_T17H",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "/services/SignalP-6.0/tmp/6AA8F6D90018C71DEF842449/output_CHGA_T17H_plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [0.0002, 0.9997],
+      "Protein_types": ["Other", "Signal Peptide (Sec/SPI)"],
+      "CS_pos": "Cleavage site between pos. 18 and 19. Probability 0.980262"
+    },
+    "CHGA_T17I": {
+      "Name": "CHGA_T17I",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "/services/SignalP-6.0/tmp/6AA8F6D90018C71DEF842449/output_CHGA_T17I_plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [0.0002, 0.9998],
+      "Protein_types": ["Other", "Signal Peptide (Sec/SPI)"],
+      "CS_pos": "Cleavage site between pos. 18 and 19. Probability 0.979215"
+    },
+    "CHGA_T17K": {
+      "Name": "CHGA_T17K",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "/services/SignalP-6.0/tmp/6AA8F6D90018C71DEF842449/output_CHGA_T17K_plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [0.0003, 0.9997],
+      "Protein_types": ["Other", "Signal Peptide (Sec/SPI)"],
+      "CS_pos": "Cleavage site between pos. 18 and 19. Probability 0.978506"
+    },
+    "CHGA_T17L": {
+      "Name": "CHGA_T17L",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "/services/SignalP-6.0/tmp/6AA8F6D90018C71DEF842449/output_CHGA_T17L_plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [0.0002, 0.9998],
+      "Protein_types": ["Other", "Signal Peptide (Sec/SPI)"],
+      "CS_pos": "Cleavage site between pos. 18 and 19. Probability 0.979484"
+    },
+    "CHGA_T17M": {
+      "Name": "CHGA_T17M",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "/services/SignalP-6.0/tmp/6AA8F6D90018C71DEF842449/output_CHGA_T17M_plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [0.0002, 0.9998],
+      "Protein_types": ["Other", "Signal Peptide (Sec/SPI)"],
+      "CS_pos": "Cleavage site between pos. 18 and 19. Probability 0.979395"
+    },
+    "CHGA_T17N": {
+      "Name": "CHGA_T17N",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "/services/SignalP-6.0/tmp/6AA8F6D90018C71DEF842449/output_CHGA_T17N_plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [0.0002, 0.9997],
+      "Protein_types": ["Other", "Signal Peptide (Sec/SPI)"],
+      "CS_pos": "Cleavage site between pos. 18 and 19. Probability 0.979776"
+    },
+    "CHGA_T17P": {
+      "Name": "CHGA_T17P",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "/services/SignalP-6.0/tmp/6AA8F6D90018C71DEF842449/output_CHGA_T17P_plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [0.0002, 0.9998],
+      "Protein_types": ["Other", "Signal Peptide (Sec/SPI)"],
+      "CS_pos": "Cleavage site between pos. 18 and 19. Probability 0.978894"
+    },
+    "CHGA_T17Q": {
+      "Name": "CHGA_T17Q",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "/services/SignalP-6.0/tmp/6AA8F6D90018C71DEF842449/output_CHGA_T17Q_plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [0.0002, 0.9998],
+      "Protein_types": ["Other", "Signal Peptide (Sec/SPI)"],
+      "CS_pos": "Cleavage site between pos. 18 and 19. Probability 0.980105"
+    },
+    "CHGA_T17R": {
+      "Name": "CHGA_T17R",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "/services/SignalP-6.0/tmp/6AA8F6D90018C71DEF842449/output_CHGA_T17R_plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [0.0002, 0.9997],
+      "Protein_types": ["Other", "Signal Peptide (Sec/SPI)"],
+      "CS_pos": "Cleavage site between pos. 18 and 19. Probability 0.977707"
+    },
+    "CHGA_T17S": {
+      "Name": "CHGA_T17S",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "/services/SignalP-6.0/tmp/6AA8F6D90018C71DEF842449/output_CHGA_T17S_plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [0.0002, 0.9997],
+      "Protein_types": ["Other", "Signal Peptide (Sec/SPI)"],
+      "CS_pos": "Cleavage site between pos. 18 and 19. Probability 0.980284"
+    },
+    "CHGA_T17T": {
+      "Name": "CHGA_T17T",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "/services/SignalP-6.0/tmp/6AA8F6D90018C71DEF842449/output_CHGA_T17T_plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [0.0002, 0.9997],
+      "Protein_types": ["Other", "Signal Peptide (Sec/SPI)"],
+      "CS_pos": "Cleavage site between pos. 18 and 19. Probability 0.979933"
+    },
+    "CHGA_T17V": {
+      "Name": "CHGA_T17V",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "/services/SignalP-6.0/tmp/6AA8F6D90018C71DEF842449/output_CHGA_T17V_plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [0.0002, 0.9997],
+      "Protein_types": ["Other", "Signal Peptide (Sec/SPI)"],
+      "CS_pos": "Cleavage site between pos. 18 and 19. Probability 0.979552"
+    },
+    "CHGA_T17W": {
+      "Name": "CHGA_T17W",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "/services/SignalP-6.0/tmp/6AA8F6D90018C71DEF842449/output_CHGA_T17W_plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [0.0002, 0.9997],
+      "Protein_types": ["Other", "Signal Peptide (Sec/SPI)"],
+      "CS_pos": "Cleavage site between pos. 18 and 19. Probability 0.980202"
+    },
+    "CHGA_T17Y": {
+      "Name": "CHGA_T17Y",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "/services/SignalP-6.0/tmp/6AA8F6D90018C71DEF842449/output_CHGA_T17Y_plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [0.0002, 0.9998],
+      "Protein_types": ["Other", "Signal Peptide (Sec/SPI)"],
+      "CS_pos": "Cleavage site between pos. 18 and 19. Probability 0.980651"
+    }
+  },
+  "FORMAT": "txt",
+  "ORG": "eukarya",
+  "MODE": "fast",
+  "REGION_GFF_FILE": "/services/SignalP-6.0/tmp/6AA8F6D90018C71DEF842449/region_output.gff3"
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://query-api.iedb.org/epitope_search?linear_sequence=in.%28VTAFVNQHL%2CTAFVNQHL%2CAAAFVNQHL%2CRSAAVLALL%2CVGAFVNQHL%2CGAFVNQHL%29&select=structure_id%2Clinear_sequence%2Cstructure_description&limit=500",
+  "retrieved_at_utc": "2026-09-15T07:43:01.964961+00:00",
+  "headers": {
+    "Server": "nginx/1.14.2",
+    "Date": "Tue, 15 Sep 2026 07:43:01 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "184",
+    "Connection": "close",
+    "Content-Range": "0-1/*",
+    "Content-Location": "/epitope_search?limit=500&linear_sequence=in.%28VTAFVNQHL%2CTAFVNQHL%2CAAAFVNQHL%2CRSAAVLALL%2CVGAFVNQHL%2CGAFVNQHL%29&select=structure_id%2Clinear_sequence%2Cstructure_description",
+    "Access-Control-Allow-Methods": "POST, GET, PATCH, DELETE, PUT, OPTIONS",
+    "Access-Control-Allow-Headers": "Origin, Authorization, Accept",
+    "Access-Control-Allow-Credentials": "true"
+  }
+}

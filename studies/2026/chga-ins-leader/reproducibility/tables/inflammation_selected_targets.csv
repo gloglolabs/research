@@ -1,0 +1,11 @@
+peptide,source_genes,reference_gene,uniprot,start,end,canonical_mapping_valid,construct_region,predicted_hla,netmhcpan_rank,basal_identifications,ifna_identifications,n_biological_replicates,mean_basal_intensity,mean_ifna_intensity,ifna_fold_change,log2_fold_change,independent_median_basal,independent_median_ifna,independent_fold_change,independent_n_biological_replicates,table2_source_cell,quant_source_cell,independent_source_cell,status
+ALWGPDPAAA,INS;INS;IGF2,INS,P01308;F8WCM5,15,24,True,INS signal 1-24,A02:01,0.3268,4,4,4,198512544.688477,216232394.06463,1.0892631214010202,0.12335249224427948,8678.082,9929.137,1.1441626156563167,3,cleanpep!A329,Fig 4d-e!B70,Fig S3c!B33,detected
+HLVEALYLV,INS;INS;IGF2,INS,P01308;F8WCM5,34,42,True,INS retained 25-110,A02:01,0.0364,4,4,4,693601.527458344,7804966.15346217,11.252809926850855,3.492213395116114,6892.0388,9910.946,1.4380281782511148,3,cleanpep!A334,Fig 4d-e!B72,Fig S3c!B107,detected
+GERGFFYTP,INS;INS;IGF2,INS,P01308;F8WCM5,44,52,True,INS retained 25-110,B49:01/B40:01,0.4123/1.2003,3,4,4,74824.5162821918,1081120.41468012,14.44874579078871,3.852872361319857,,,,3,cleanpep!A335,Fig 4d-e!B73,,detected
+RSAAVLALL,CHGA,CHGA,P10645,2,10,True,CHGA signal 1-18,E01:01,0.2083,2,3,4,31518.5089952149,1026538.62196845,32.56939032630947,5.025444808743306,,,,3,cleanpep!A72,Fig 4d-e!B20,,detected
+VMNILLQYV,,,,,,,,,,,,,,,,,,,,,,,,not present in conventional table; not a zero
+VMNILLQYVV,,,,,,,,,,,,,,,,,,,,,,,,not present in conventional table; not a zero
+VAANIVLTV,,,,,,,,,,,,,,,,,,,,,,,,not present in conventional table; not a zero
+KMFPEVKEK,GAD2,GAD2,Q05329,257,265,True,Other region,A03:01,0.0069,4,4,4,109871.700496931,352823.43752964,3.2112312445687072,1.6831265589846414,,,,3,cleanpep!A287,Fig 4d-e!B66,,detected
+KVAPVIKAR,GAD2,GAD2,Q05329,528,536,True,Other region,A03:01,0.1489,0,4,4,2547.62226603606,13070.7151588848,5.130554608953866,2.359114788471514,,,,3,cleanpep!A288,Fig 4d-e!B67,,detected
+RTYLVNDKAAK,SLC30A8,SLC30A8,Q8IWU4,6,16,True,Other region,A03:01,0.1627,4,4,4,491208.970455216,1504345.9345973,3.0625375859955972,1.6147275501712754,19296.229,16473.961,0.8537399198568798,3,cleanpep!A662,Fig 4d-e!B110,Fig S3c!B201,detected
