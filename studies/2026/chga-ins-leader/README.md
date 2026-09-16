@@ -4,6 +4,16 @@ Research note, 15 September 2026. GloGlo Labs.
 
 [Read the note](research-note.md) or [download the PDF](chga-ins-research-note.pdf).
 
+The two-page note includes the L9C single control, threshold sensitivity and a
+four-construct experimental comparison. To rebuild it from its Markdown source:
+
+```sh
+python3 -m pip install -r requirements-note.txt
+python3 build_research_note.py
+```
+
+See [changes](CHANGELOG.md) for the note's revision history.
+
 ## Full paper
 
 [Read the manuscript](article.md) or [download the full paper](chga-ins-leader-variants.pdf):
